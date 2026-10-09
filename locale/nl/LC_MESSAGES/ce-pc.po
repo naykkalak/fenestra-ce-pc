@@ -1,0 +1,425 @@
+# Ce PC (Fenestra) : traduction "nl"
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10, naam-van-de-nas of smb://..."
+
+msgid "About"
+msgstr "Info"
+
+msgid "About This PC"
+msgstr "Over Deze pc"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "Add a network location"
+msgstr "Een netwerklocatie toevoegen"
+
+msgid "Add a network location…"
+msgstr "Een netwerklocatie toevoegen…"
+
+msgid "Author: {author}"
+msgstr "Auteur: {author}"
+
+msgid "Available"
+msgstr "Beschikbaar"
+
+msgid "Built-in"
+msgstr "Ingebouwd"
+
+msgid "CD/DVD Drive"
+msgstr "Cd/dvd-station"
+
+msgid "Cannot add"
+msgstr "Toevoegen niet mogelijk"
+
+msgid "Cannot eject"
+msgstr "Uitwerpen niet mogelijk"
+
+msgid "Cannot open"
+msgstr "Kan niet openen"
+
+msgid "Cannot remove"
+msgstr "Verwijderen niet mogelijk"
+
+msgid "Cannot rename"
+msgstr "Naam wijzigen niet mogelijk"
+
+msgid "Capacity: {size}"
+msgstr "Capaciteit: {size}"
+
+msgid "Choose a share…"
+msgstr "Kies een share…"
+
+msgid "Collapse the ribbon"
+msgstr "Lint samenvouwen"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "Pictogrammen van de opdrachtbalk: Fluent UI System Icons, © Microsoft Corporation, MIT-licentie."
+
+msgid "Connected via USB"
+msgstr "Verbonden via USB"
+
+msgid "Could not save the list:\n{error}"
+msgstr "De lijst kon niet worden opgeslagen:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "De schijf kon niet worden ontkoppeld:\n{detail}\n\nSluit de vensters en toepassingen die dit station gebruiken en probeer het opnieuw."
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "{label} kon niet worden ontkoppeld:\n{detail}\n\nControleer of er nog geen bestand op dit station is geopend."
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Desktop"
+msgstr "Bureaublad"
+
+msgid "Detected automatically on the network"
+msgstr "Automatisch gedetecteerd op het netwerk"
+
+msgid "Device:"
+msgstr "Apparaat:"
+
+msgid "Devices and drives ({n})"
+msgstr "Apparaten en stations ({n})"
+
+msgid "Display name (optional):"
+msgstr "Weergavenaam (optioneel):"
+
+msgid "Documents"
+msgstr "Documenten"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Eject"
+msgstr "Uitwerpen"
+
+msgid "File system:"
+msgstr "Bestandssysteem:"
+
+msgid "Folders ({n})"
+msgstr "Mappen ({n})"
+
+msgid "Free: {size}"
+msgstr "Vrij: {size}"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Game controller"
+msgstr "Gamecontroller"
+
+msgid "Graphics tablet"
+msgstr "Tekentablet"
+
+msgid "Incorrect username or password."
+msgstr "Gebruikersnaam of wachtwoord onjuist."
+
+msgid "Ink levels"
+msgstr "Inktniveaus"
+
+msgid "Insufficient rights"
+msgstr "Onvoldoende rechten"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet kon het wachtwoord niet opslaan: de ruimtebalk wordt niet getoond."
+
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+msgid "License: {license}"
+msgstr "Licentie: {license}"
+
+msgid "List"
+msgstr "Weergeven"
+
+msgid "Local Disk"
+msgstr "Lokale schijf"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Location unavailable"
+msgstr "Locatie niet beschikbaar"
+
+msgid "Mount point:"
+msgstr "Koppelpunt:"
+
+msgid "Mouse"
+msgstr "Muis"
+
+msgid "Music"
+msgstr "Muziek"
+
+msgid "My NAS"
+msgstr "Mijn NAS"
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Network location"
+msgstr "Netwerklocatie"
+
+msgid "Network locations ({n})"
+msgstr "Netwerklocaties ({n})"
+
+msgid "Network location…"
+msgstr "Netwerklocatie…"
+
+msgid "No disc"
+msgstr "Geen schijf"
+
+msgid "No information available."
+msgstr "Geen informatie beschikbaar."
+
+msgid "No share visible with these credentials."
+msgstr "Geen shares zichtbaar met deze inloggegevens."
+
+msgid "Not connected"
+msgstr "Niet verbonden"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Open"
+msgstr "Openen"
+
+msgid "Open with Dolphin"
+msgstr "Openen met Dolphin"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "Maakt deel uit van de Fenestra-serie, die KDE Plasma het uiterlijk van een Windows 11-bureaublad geeft."
+
+msgid "Partial eject"
+msgstr "Gedeeltelijk uitgeworpen"
+
+msgid "Password not remembered"
+msgstr "Wachtwoord niet onthouden"
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+msgid "Pictures"
+msgstr "Afbeeldingen"
+
+msgid "Printer"
+msgstr "Printer"
+
+msgid "Printers and devices ({n})"
+msgstr "Printers en apparaten ({n})"
+
+msgid "Printing"
+msgstr "Bezig met afdrukken"
+
+msgid "Program not found"
+msgstr "Programma niet gevonden"
+
+msgid "Properties"
+msgstr "Eigenschappen"
+
+msgid "Properties of {name}"
+msgstr "Eigenschappen van {name}"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "Voor het lezen van SMART zijn root-rechten nodig, en pkexec (grafische verhoging van rechten) is op dit systeem niet gevonden."
+
+msgid "Reading SMART timed out."
+msgstr "Het lezen van SMART duurde te lang."
+
+msgid "Ready"
+msgstr "Gereed"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "Wachtwoord onthouden (KWallet) om de vrije ruimte te tonen"
+
+msgid "Remount failed"
+msgstr "Opnieuw koppelen mislukt"
+
+msgid "Removable Disk"
+msgstr "Verwisselbare schijf"
+
+msgid "Removable disk"
+msgstr "Verwisselbare schijf"
+
+msgid "Remove from list"
+msgstr "Uit lijst verwijderen"
+
+msgid "Remove this location"
+msgstr "Deze locatie verwijderen"
+
+msgid "Rename"
+msgstr "Naam wijzigen"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "Naam wijzigen wordt voor deze indeling ({fstype}) niet ondersteund."
+
+msgid "SMART status…"
+msgstr "SMART-status…"
+
+msgid "SMART unavailable"
+msgstr "SMART niet beschikbaar"
+
+msgid "Safely remove"
+msgstr "Veilig verwijderen"
+
+msgid "Searching…"
+msgstr "Zoeken…"
+
+msgid "Server address:"
+msgstr "Serveradres:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "Server niet bereikbaar. Controleer het adres en of de server is ingeschakeld."
+
+msgid "Share name (required):"
+msgstr "Naam van de share (verplicht):"
+
+msgid "Shares found:"
+msgstr "Gevonden shares:"
+
+msgid "Show more"
+msgstr "Meer weergeven"
+
+msgid "Show the full ribbon"
+msgstr "Volledig lint weergeven"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "System Settings"
+msgstr "Systeeminstellingen"
+
+msgid "System information"
+msgstr "Systeeminformatie"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "De schijf kon niet opnieuw worden gekoppeld:\n{detail}\n\nKoppel hem los en sluit hem opnieuw aan."
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "Het definitieve wachtwoord wordt bij het eerste openen door Dolphin gevraagd; u kunt Dolphin vragen het te onthouden."
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "De naam is leeg of bevat een niet-toegestaan teken."
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "De naam is te lang voor deze indeling (maximaal {max} tekens)."
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "Het programma ‘{name}’ is niet geïnstalleerd op deze computer."
+
+msgid "The search failed."
+msgstr "Zoeken is mislukt."
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "Het serveradres is leeg of bevat een niet-toegestaan teken."
+
+msgid "The server is not responding (timed out)."
+msgstr "De server reageert niet (time-out)."
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "De naam van de share is leeg of bevat een niet-toegestaan teken."
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "De opdracht smartctl is niet gevonden.\n\nInstalleer het pakket smartmontools om deze functie te activeren."
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "Het programma smbclient is niet geïnstalleerd (pakket ‘samba’). Typ de naam van de share zelf in, of gebruik na het toevoegen de knop ‘Openen’."
+
+msgid "The udisksctl command was not found on this system."
+msgstr "De opdracht udisksctl is op dit systeem niet gevonden."
+
+msgid "The username contains a forbidden character."
+msgstr "De gebruikersnaam bevat een niet-toegestaan teken."
+
+msgid "The username is required to remember the password."
+msgstr "De gebruikersnaam is verplicht om het wachtwoord te onthouden."
+
+msgid "The username is required."
+msgstr "De gebruikersnaam is verplicht."
+
+msgid "This PC"
+msgstr "Deze pc"
+
+msgid "This location already exists in the list."
+msgstr "Deze locatie staat al in de lijst."
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "Deze software is niet verbonden aan Microsoft Corporation en wordt niet door Microsoft Corporation goedgekeurd. Windows is een handelsmerk van Microsoft Corporation."
+
+msgid "Touchpad"
+msgstr "Touchpad"
+
+msgid "Type the password to be able to remember it."
+msgstr "Typ het wachtwoord om het te kunnen onthouden."
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "Unmounting the disk failed."
+msgstr "Het ontkoppelen van de schijf is mislukt."
+
+msgid "Unmounting {label} timed out."
+msgstr "Het ontkoppelen van {label} duurde te lang."
+
+msgid "Used: {size}"
+msgstr "In gebruik: {size}"
+
+msgid "Username (required):"
+msgstr "Gebruikersnaam (verplicht):"
+
+msgid "Version {version} · Plasma version"
+msgstr "Versie {version} · Plasma-versie"
+
+msgid "Videos"
+msgstr "Video's"
+
+msgid "Volume name"
+msgstr "Volumenaam"
+
+msgid "filled in from the list, or type it"
+msgstr "ingevuld via de lijst, of zelf typen"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus niet gevonden of time-out."
+
+msgid "only for “List”, never saved"
+msgstr "alleen voor ‘Weergeven’, wordt nooit opgeslagen"
+
+msgid "unknown error"
+msgstr "onbekende fout"
+
+msgid "{free} free of {total}"
+msgstr "{free} vrij van {total}"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} is ontkoppeld, maar kon niet worden uitgeschakeld:\n{detail}\n\nU kunt het toch loskoppelen."
+
+msgid "{n} item(s)"
+msgstr "{n} item(s)"
+
+msgid "{share} on {host}"
+msgstr "{share} op {host}"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "‘{name}’ reageert niet. Controleer of het is ingeschakeld en met het netwerk is verbonden."
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 of later"
+
+msgid "GPL-3.0 only"
+msgstr "alleen GPL-3.0"

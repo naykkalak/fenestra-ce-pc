@@ -1,0 +1,425 @@
+# Ce PC (Fenestra) : traduction "ja"
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ja\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10、NAS 名、または smb://..."
+
+msgid "About"
+msgstr "バージョン情報"
+
+msgid "About This PC"
+msgstr "PC について"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add a network location"
+msgstr "ネットワークの場所を追加"
+
+msgid "Add a network location…"
+msgstr "ネットワークの場所を追加…"
+
+msgid "Author: {author}"
+msgstr "作者: {author}"
+
+msgid "Available"
+msgstr "利用可能"
+
+msgid "Built-in"
+msgstr "内蔵"
+
+msgid "CD/DVD Drive"
+msgstr "CD/DVD ドライブ"
+
+msgid "Cannot add"
+msgstr "追加できません"
+
+msgid "Cannot eject"
+msgstr "取り出せません"
+
+msgid "Cannot open"
+msgstr "開けません"
+
+msgid "Cannot remove"
+msgstr "削除できません"
+
+msgid "Cannot rename"
+msgstr "名前を変更できません"
+
+msgid "Capacity: {size}"
+msgstr "容量: {size}"
+
+msgid "Choose a share…"
+msgstr "共有を選択…"
+
+msgid "Collapse the ribbon"
+msgstr "リボンを折りたたむ"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "コマンド バーのアイコン: Fluent UI System Icons、© Microsoft Corporation、MIT ライセンス。"
+
+msgid "Connected via USB"
+msgstr "USB 接続"
+
+msgid "Could not save the list:\n{error}"
+msgstr "一覧を保存できませんでした:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "ディスクのマウントを解除できませんでした:\n{detail}\n\nこのドライブを使用しているウィンドウとアプリケーションを閉じて、もう一度お試しください。"
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "{label} のマウントを解除できませんでした:\n{detail}\n\nこのドライブで開いているファイルがないか確認してください。"
+
+msgid "Default"
+msgstr "既定"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "Detected automatically on the network"
+msgstr "ネットワーク上で自動検出"
+
+msgid "Device:"
+msgstr "デバイス:"
+
+msgid "Devices and drives ({n})"
+msgstr "デバイスとドライブ ({n})"
+
+msgid "Display name (optional):"
+msgstr "表示名 (省略可):"
+
+msgid "Documents"
+msgstr "ドキュメント"
+
+msgid "Downloads"
+msgstr "ダウンロード"
+
+msgid "Eject"
+msgstr "取り出し"
+
+msgid "File system:"
+msgstr "ファイル システム:"
+
+msgid "Folders ({n})"
+msgstr "フォルダー ({n})"
+
+msgid "Free: {size}"
+msgstr "空き: {size}"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Game controller"
+msgstr "ゲームコントローラー"
+
+msgid "Graphics tablet"
+msgstr "ペンタブレット"
+
+msgid "Incorrect username or password."
+msgstr "ユーザー名またはパスワードが正しくありません。"
+
+msgid "Ink levels"
+msgstr "インク残量"
+
+msgid "Insufficient rights"
+msgstr "権限が不足しています"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet がパスワードを保存できませんでした。空き容量のバーは表示されません。"
+
+msgid "Keyboard"
+msgstr "キーボード"
+
+msgid "License: {license}"
+msgstr "ライセンス: {license}"
+
+msgid "List"
+msgstr "一覧表示"
+
+msgid "Local Disk"
+msgstr "ローカル ディスク"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Location unavailable"
+msgstr "場所を利用できません"
+
+msgid "Mount point:"
+msgstr "マウント ポイント:"
+
+msgid "Mouse"
+msgstr "マウス"
+
+msgid "Music"
+msgstr "ミュージック"
+
+msgid "My NAS"
+msgstr "マイ NAS"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Network location"
+msgstr "ネットワークの場所"
+
+msgid "Network locations ({n})"
+msgstr "ネットワークの場所 ({n})"
+
+msgid "Network location…"
+msgstr "ネットワークの場所…"
+
+msgid "No disc"
+msgstr "ディスクなし"
+
+msgid "No information available."
+msgstr "利用できる情報がありません。"
+
+msgid "No share visible with these credentials."
+msgstr "この資格情報では表示できる共有がありません。"
+
+msgid "Not connected"
+msgstr "未接続"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "Open with Dolphin"
+msgstr "Dolphin で開く"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "KDE Plasma に Windows 11 のデスクトップの外観を与える Fenestra シリーズの一部です。"
+
+msgid "Partial eject"
+msgstr "一部のみ取り出しました"
+
+msgid "Password not remembered"
+msgstr "パスワードを記憶できませんでした"
+
+msgid "Password:"
+msgstr "パスワード:"
+
+msgid "Pictures"
+msgstr "ピクチャ"
+
+msgid "Printer"
+msgstr "プリンター"
+
+msgid "Printers and devices ({n})"
+msgstr "プリンターとデバイス ({n})"
+
+msgid "Printing"
+msgstr "印刷中"
+
+msgid "Program not found"
+msgstr "プログラムが見つかりません"
+
+msgid "Properties"
+msgstr "プロパティ"
+
+msgid "Properties of {name}"
+msgstr "{name} のプロパティ"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "SMART の読み取りには root 権限が必要ですが、このシステムでは pkexec (グラフィカルな権限昇格) が見つかりません。"
+
+msgid "Reading SMART timed out."
+msgstr "SMART の読み取りがタイムアウトしました。"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Refresh"
+msgstr "最新の情報に更新"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "空き容量を表示するためにパスワードを記憶する (KWallet)"
+
+msgid "Remount failed"
+msgstr "再マウントに失敗しました"
+
+msgid "Removable Disk"
+msgstr "リムーバブル ディスク"
+
+msgid "Removable disk"
+msgstr "リムーバブル ディスク"
+
+msgid "Remove from list"
+msgstr "一覧から削除"
+
+msgid "Remove this location"
+msgstr "この場所を削除"
+
+msgid "Rename"
+msgstr "名前の変更"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "この形式 ({fstype}) では名前の変更はサポートされていません。"
+
+msgid "SMART status…"
+msgstr "SMART の状態…"
+
+msgid "SMART unavailable"
+msgstr "SMART を利用できません"
+
+msgid "Safely remove"
+msgstr "安全に取り外す"
+
+msgid "Searching…"
+msgstr "検索中…"
+
+msgid "Server address:"
+msgstr "サーバーのアドレス:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "サーバーに接続できません。アドレスと、サーバーの電源が入っていることを確認してください。"
+
+msgid "Share name (required):"
+msgstr "共有名 (必須):"
+
+msgid "Shares found:"
+msgstr "見つかった共有:"
+
+msgid "Show more"
+msgstr "その他を表示"
+
+msgid "Show the full ribbon"
+msgstr "リボンをすべて表示"
+
+msgid "Status:"
+msgstr "状態:"
+
+msgid "System"
+msgstr "システム"
+
+msgid "System Settings"
+msgstr "システム設定"
+
+msgid "System information"
+msgstr "システム情報"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "ディスクを再マウントできませんでした:\n{detail}\n\n一度取り外して、もう一度接続してください。"
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "最終的なパスワードは、初回に開くときに Dolphin から求められます。記憶するよう設定することもできます。"
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "名前が空か、使用できない文字が含まれています。"
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "名前がこの形式には長すぎます (最大 {max} 文字)。"
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "プログラム「{name}」はこのコンピューターにインストールされていません。"
+
+msgid "The search failed."
+msgstr "検索に失敗しました。"
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "サーバーのアドレスが空か、使用できない文字が含まれています。"
+
+msgid "The server is not responding (timed out)."
+msgstr "サーバーが応答しません (タイムアウト)。"
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "共有名が空か、使用できない文字が含まれています。"
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "smartctl コマンドが見つかりません。\n\nこの機能を有効にするには smartmontools パッケージをインストールしてください。"
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "smbclient プログラムがインストールされていません (パッケージ「samba」)。共有名を直接入力するか、追加後に「開く」ボタンを使用してください。"
+
+msgid "The udisksctl command was not found on this system."
+msgstr "このシステムでは udisksctl コマンドが見つかりません。"
+
+msgid "The username contains a forbidden character."
+msgstr "ユーザー名に使用できない文字が含まれています。"
+
+msgid "The username is required to remember the password."
+msgstr "パスワードを記憶するには、ユーザー名が必要です。"
+
+msgid "The username is required."
+msgstr "ユーザー名は必須です。"
+
+msgid "This PC"
+msgstr "PC"
+
+msgid "This location already exists in the list."
+msgstr "この場所はすでに一覧にあります。"
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "このソフトウェアは Microsoft Corporation とは関係がなく、承認も受けていません。Windows は Microsoft Corporation の商標です。"
+
+msgid "Touchpad"
+msgstr "タッチパッド"
+
+msgid "Type the password to be able to remember it."
+msgstr "パスワードを記憶するには、パスワードを入力してください。"
+
+msgid "Type:"
+msgstr "種類:"
+
+msgid "Unmounting the disk failed."
+msgstr "ディスクのマウント解除に失敗しました。"
+
+msgid "Unmounting {label} timed out."
+msgstr "{label} のマウント解除がタイムアウトしました。"
+
+msgid "Used: {size}"
+msgstr "使用中: {size}"
+
+msgid "Username (required):"
+msgstr "ユーザー名 (必須):"
+
+msgid "Version {version} · Plasma version"
+msgstr "バージョン {version} · Plasma 版"
+
+msgid "Videos"
+msgstr "ビデオ"
+
+msgid "Volume name"
+msgstr "ボリューム名"
+
+msgid "filled in from the list, or type it"
+msgstr "一覧から入力されます。または直接入力"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus が見つからないか、タイムアウトしました。"
+
+msgid "only for “List”, never saved"
+msgstr "「一覧表示」専用で、保存されません"
+
+msgid "unknown error"
+msgstr "不明なエラー"
+
+msgid "{free} free of {total}"
+msgstr "{total} 中 {free} が空き"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} のマウントは解除されましたが、電源を切れませんでした:\n{detail}\n\nそのまま取り外しても問題ありません。"
+
+msgid "{n} item(s)"
+msgstr "{n} 個の項目"
+
+msgid "{share} on {host}"
+msgstr "{host} の {share}"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "「{name}」が応答しません。電源が入っていて、ネットワークに接続されていることを確認してください。"
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 以降"
+
+msgid "GPL-3.0 only"
+msgstr "GPL-3.0 のみ"

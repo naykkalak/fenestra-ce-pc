@@ -1,0 +1,425 @@
+# Ce PC (Fenestra) : traduction "pt_BR"
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10, nome-do-nas ou smb://..."
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "About This PC"
+msgstr "Sobre Este Computador"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Add a network location"
+msgstr "Adicionar um local de rede"
+
+msgid "Add a network location…"
+msgstr "Adicionar um local de rede…"
+
+msgid "Author: {author}"
+msgstr "Autor: {author}"
+
+msgid "Available"
+msgstr "Disponível"
+
+msgid "Built-in"
+msgstr "Integrado"
+
+msgid "CD/DVD Drive"
+msgstr "Unidade de CD/DVD"
+
+msgid "Cannot add"
+msgstr "Não é possível adicionar"
+
+msgid "Cannot eject"
+msgstr "Não é possível ejetar"
+
+msgid "Cannot open"
+msgstr "Não foi possível abrir"
+
+msgid "Cannot remove"
+msgstr "Não é possível remover"
+
+msgid "Cannot rename"
+msgstr "Não é possível renomear"
+
+msgid "Capacity: {size}"
+msgstr "Capacidade: {size}"
+
+msgid "Choose a share…"
+msgstr "Escolher um compartilhamento…"
+
+msgid "Collapse the ribbon"
+msgstr "Recolher a faixa de opções"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "Ícones da barra de comandos: Fluent UI System Icons, © Microsoft Corporation, licença MIT."
+
+msgid "Connected via USB"
+msgstr "Conectada via USB"
+
+msgid "Could not save the list:\n{error}"
+msgstr "Não foi possível salvar a lista:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "Não foi possível desmontar o disco:\n{detail}\n\nFeche as janelas e os aplicativos que usam esta unidade e tente novamente."
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "Não foi possível desmontar {label}:\n{detail}\n\nVerifique se nenhum arquivo ainda está aberto nesta unidade."
+
+msgid "Default"
+msgstr "Padrão"
+
+msgid "Desktop"
+msgstr "Área de Trabalho"
+
+msgid "Detected automatically on the network"
+msgstr "Detectada automaticamente na rede"
+
+msgid "Device:"
+msgstr "Dispositivo:"
+
+msgid "Devices and drives ({n})"
+msgstr "Dispositivos e unidades ({n})"
+
+msgid "Display name (optional):"
+msgstr "Nome de exibição (opcional):"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Eject"
+msgstr "Ejetar"
+
+msgid "File system:"
+msgstr "Sistema de arquivos:"
+
+msgid "Folders ({n})"
+msgstr "Pastas ({n})"
+
+msgid "Free: {size}"
+msgstr "Livre: {size}"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Game controller"
+msgstr "Controle de jogo"
+
+msgid "Graphics tablet"
+msgstr "Mesa digitalizadora"
+
+msgid "Incorrect username or password."
+msgstr "Nome de usuário ou senha incorretos."
+
+msgid "Ink levels"
+msgstr "Níveis de tinta"
+
+msgid "Insufficient rights"
+msgstr "Permissões insuficientes"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "O KWallet não conseguiu salvar a senha: a barra de espaço não será exibida."
+
+msgid "Keyboard"
+msgstr "Teclado"
+
+msgid "License: {license}"
+msgstr "Licença: {license}"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "Local Disk"
+msgstr "Disco local"
+
+msgid "Location"
+msgstr "Local"
+
+msgid "Location unavailable"
+msgstr "Local indisponível"
+
+msgid "Mount point:"
+msgstr "Ponto de montagem:"
+
+msgid "Mouse"
+msgstr "Mouse"
+
+msgid "Music"
+msgstr "Músicas"
+
+msgid "My NAS"
+msgstr "Meu NAS"
+
+msgid "Network"
+msgstr "Rede"
+
+msgid "Network location"
+msgstr "Local de rede"
+
+msgid "Network locations ({n})"
+msgstr "Locais de rede ({n})"
+
+msgid "Network location…"
+msgstr "Local de rede…"
+
+msgid "No disc"
+msgstr "Nenhum disco"
+
+msgid "No information available."
+msgstr "Nenhuma informação disponível."
+
+msgid "No share visible with these credentials."
+msgstr "Nenhum compartilhamento visível com essas credenciais."
+
+msgid "Not connected"
+msgstr "Não conectado"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Open"
+msgstr "Abrir"
+
+msgid "Open with Dolphin"
+msgstr "Abrir com o Dolphin"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "Faz parte da série Fenestra, que dá ao KDE Plasma a aparência de uma área de trabalho do Windows 11."
+
+msgid "Partial eject"
+msgstr "Ejeção parcial"
+
+msgid "Password not remembered"
+msgstr "Senha não lembrada"
+
+msgid "Password:"
+msgstr "Senha:"
+
+msgid "Pictures"
+msgstr "Imagens"
+
+msgid "Printer"
+msgstr "Impressora"
+
+msgid "Printers and devices ({n})"
+msgstr "Impressoras e dispositivos ({n})"
+
+msgid "Printing"
+msgstr "Imprimindo"
+
+msgid "Program not found"
+msgstr "Programa não encontrado"
+
+msgid "Properties"
+msgstr "Propriedades"
+
+msgid "Properties of {name}"
+msgstr "Propriedades de {name}"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "A leitura do SMART exige permissões de root, e o pkexec (elevação gráfica) não foi encontrado neste sistema."
+
+msgid "Reading SMART timed out."
+msgstr "A leitura do SMART excedeu o tempo limite."
+
+msgid "Ready"
+msgstr "Pronta"
+
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "Lembrar a senha (KWallet) para mostrar o espaço livre"
+
+msgid "Remount failed"
+msgstr "Falha ao montar novamente"
+
+msgid "Removable Disk"
+msgstr "Disco removível"
+
+msgid "Removable disk"
+msgstr "Disco removível"
+
+msgid "Remove from list"
+msgstr "Remover da lista"
+
+msgid "Remove this location"
+msgstr "Remover este local"
+
+msgid "Rename"
+msgstr "Renomear"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "Renomear não é compatível com este formato ({fstype})."
+
+msgid "SMART status…"
+msgstr "Status SMART…"
+
+msgid "SMART unavailable"
+msgstr "SMART indisponível"
+
+msgid "Safely remove"
+msgstr "Remover com segurança"
+
+msgid "Searching…"
+msgstr "Pesquisando…"
+
+msgid "Server address:"
+msgstr "Endereço do servidor:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "Servidor inacessível. Verifique o endereço e se o servidor está ligado."
+
+msgid "Share name (required):"
+msgstr "Nome do compartilhamento (obrigatório):"
+
+msgid "Shares found:"
+msgstr "Compartilhamentos encontrados:"
+
+msgid "Show more"
+msgstr "Mostrar mais"
+
+msgid "Show the full ribbon"
+msgstr "Mostrar a faixa de opções completa"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "System Settings"
+msgstr "Configurações do sistema"
+
+msgid "System information"
+msgstr "Informações do sistema"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "Não foi possível montar o disco novamente:\n{detail}\n\nDesconecte-o e conecte-o de novo."
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "A senha definitiva é solicitada pelo Dolphin na primeira abertura; você pode pedir que ele a lembre."
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "O nome está vazio ou contém um caractere não permitido."
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "O nome é muito longo para este formato (máximo de {max} caracteres)."
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "O programa “{name}” não está instalado neste computador."
+
+msgid "The search failed."
+msgstr "A pesquisa falhou."
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "O endereço do servidor está vazio ou contém um caractere não permitido."
+
+msgid "The server is not responding (timed out)."
+msgstr "O servidor não está respondendo (tempo esgotado)."
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "O nome do compartilhamento está vazio ou contém um caractere não permitido."
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "O comando smartctl não foi encontrado.\n\nInstale o pacote smartmontools para ativar este recurso."
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "O programa smbclient não está instalado (pacote “samba”). Digite o nome do compartilhamento manualmente ou use o botão “Abrir” após adicionar."
+
+msgid "The udisksctl command was not found on this system."
+msgstr "O comando udisksctl não foi encontrado neste sistema."
+
+msgid "The username contains a forbidden character."
+msgstr "O nome de usuário contém um caractere não permitido."
+
+msgid "The username is required to remember the password."
+msgstr "O nome de usuário é obrigatório para lembrar a senha."
+
+msgid "The username is required."
+msgstr "O nome de usuário é obrigatório."
+
+msgid "This PC"
+msgstr "Este Computador"
+
+msgid "This location already exists in the list."
+msgstr "Este local já existe na lista."
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "Este software não é afiliado à Microsoft Corporation nem aprovado por ela. Windows é uma marca registrada da Microsoft Corporation."
+
+msgid "Touchpad"
+msgstr "Touchpad"
+
+msgid "Type the password to be able to remember it."
+msgstr "Digite a senha para poder lembrá-la."
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Unmounting the disk failed."
+msgstr "Falha ao desmontar o disco."
+
+msgid "Unmounting {label} timed out."
+msgstr "A desmontagem de {label} excedeu o tempo limite."
+
+msgid "Used: {size}"
+msgstr "Usado: {size}"
+
+msgid "Username (required):"
+msgstr "Nome de usuário (obrigatório):"
+
+msgid "Version {version} · Plasma version"
+msgstr "Versão {version} · versão para Plasma"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "Volume name"
+msgstr "Nome do volume"
+
+msgid "filled in from the list, or type it"
+msgstr "preenchido pela lista, ou digite"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus não encontrado ou tempo esgotado."
+
+msgid "only for “List”, never saved"
+msgstr "somente para “Listar”, nunca é salva"
+
+msgid "unknown error"
+msgstr "erro desconhecido"
+
+msgid "{free} free of {total}"
+msgstr "{free} livres de {total}"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} foi desmontado, mas não foi possível desligá-lo:\n{detail}\n\nVocê ainda pode desconectá-lo."
+
+msgid "{n} item(s)"
+msgstr "{n} item(ns)"
+
+msgid "{share} on {host}"
+msgstr "{share} em {host}"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "“{name}” não está respondendo. Verifique se está ligado e conectado à rede."
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 ou posterior"
+
+msgid "GPL-3.0 only"
+msgstr "somente GPL-3.0"

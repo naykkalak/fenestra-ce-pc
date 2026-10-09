@@ -1,0 +1,425 @@
+# Ce PC (Fenestra) : traduction "ru"
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10, имя-nas или smb://..."
+
+msgid "About"
+msgstr "О программе"
+
+msgid "About This PC"
+msgstr "О программе «Этот компьютер»"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add a network location"
+msgstr "Добавить сетевое расположение"
+
+msgid "Add a network location…"
+msgstr "Добавить сетевое расположение…"
+
+msgid "Author: {author}"
+msgstr "Автор: {author}"
+
+msgid "Available"
+msgstr "Доступно"
+
+msgid "Built-in"
+msgstr "Встроенное"
+
+msgid "CD/DVD Drive"
+msgstr "CD/DVD-дисковод"
+
+msgid "Cannot add"
+msgstr "Не удаётся добавить"
+
+msgid "Cannot eject"
+msgstr "Не удаётся извлечь"
+
+msgid "Cannot open"
+msgstr "Не удаётся открыть"
+
+msgid "Cannot remove"
+msgstr "Не удаётся удалить"
+
+msgid "Cannot rename"
+msgstr "Не удаётся переименовать"
+
+msgid "Capacity: {size}"
+msgstr "Ёмкость: {size}"
+
+msgid "Choose a share…"
+msgstr "Выберите общий ресурс…"
+
+msgid "Collapse the ribbon"
+msgstr "Свернуть ленту"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "Значки панели команд: Fluent UI System Icons, © Microsoft Corporation, лицензия MIT."
+
+msgid "Connected via USB"
+msgstr "Подключён по USB"
+
+msgid "Could not save the list:\n{error}"
+msgstr "Не удалось сохранить список:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "Не удалось размонтировать диск:\n{detail}\n\nЗакройте окна и приложения, использующие этот диск, и повторите попытку."
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "Не удалось размонтировать {label}:\n{detail}\n\nПроверьте, что на этом диске не осталось открытых файлов."
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Detected automatically on the network"
+msgstr "Обнаружен автоматически в сети"
+
+msgid "Device:"
+msgstr "Устройство:"
+
+msgid "Devices and drives ({n})"
+msgstr "Устройства и диски ({n})"
+
+msgid "Display name (optional):"
+msgstr "Отображаемое имя (необязательно):"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Downloads"
+msgstr "Загрузки"
+
+msgid "Eject"
+msgstr "Извлечь"
+
+msgid "File system:"
+msgstr "Файловая система:"
+
+msgid "Folders ({n})"
+msgstr "Папки ({n})"
+
+msgid "Free: {size}"
+msgstr "Свободно: {size}"
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "Game controller"
+msgstr "Игровой контроллер"
+
+msgid "Graphics tablet"
+msgstr "Графический планшет"
+
+msgid "Incorrect username or password."
+msgstr "Неверное имя пользователя или пароль."
+
+msgid "Ink levels"
+msgstr "Уровень чернил"
+
+msgid "Insufficient rights"
+msgstr "Недостаточно прав"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet не смог сохранить пароль: шкала свободного места не будет показана."
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "License: {license}"
+msgstr "Лицензия: {license}"
+
+msgid "List"
+msgstr "Показать"
+
+msgid "Local Disk"
+msgstr "Локальный диск"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Location unavailable"
+msgstr "Расположение недоступно"
+
+msgid "Mount point:"
+msgstr "Точка монтирования:"
+
+msgid "Mouse"
+msgstr "Мышь"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "My NAS"
+msgstr "Мой NAS"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Network location"
+msgstr "Сетевое расположение"
+
+msgid "Network locations ({n})"
+msgstr "Сетевые расположения ({n})"
+
+msgid "Network location…"
+msgstr "Сетевое расположение…"
+
+msgid "No disc"
+msgstr "Нет диска"
+
+msgid "No information available."
+msgstr "Нет доступной информации."
+
+msgid "No share visible with these credentials."
+msgstr "С этими учётными данными общие ресурсы не видны."
+
+msgid "Not connected"
+msgstr "Не подключено"
+
+msgid "Offline"
+msgstr "Не в сети"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Open with Dolphin"
+msgstr "Открыть в Dolphin"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "Часть серии Fenestra, придающей KDE Plasma вид рабочего стола Windows 11."
+
+msgid "Partial eject"
+msgstr "Частичное извлечение"
+
+msgid "Password not remembered"
+msgstr "Пароль не запомнен"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Pictures"
+msgstr "Изображения"
+
+msgid "Printer"
+msgstr "Принтер"
+
+msgid "Printers and devices ({n})"
+msgstr "Принтеры и устройства ({n})"
+
+msgid "Printing"
+msgstr "Печать"
+
+msgid "Program not found"
+msgstr "Программа не найдена"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Properties of {name}"
+msgstr "Свойства: {name}"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "Для чтения SMART нужны права root, а pkexec (графическое повышение прав) не найден в этой системе."
+
+msgid "Reading SMART timed out."
+msgstr "Время чтения SMART истекло."
+
+msgid "Ready"
+msgstr "Готов"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "Запомнить пароль (KWallet), чтобы показывать свободное место"
+
+msgid "Remount failed"
+msgstr "Не удалось смонтировать повторно"
+
+msgid "Removable Disk"
+msgstr "Съёмный диск"
+
+msgid "Removable disk"
+msgstr "Съёмный диск"
+
+msgid "Remove from list"
+msgstr "Убрать из списка"
+
+msgid "Remove this location"
+msgstr "Удалить это расположение"
+
+msgid "Rename"
+msgstr "Переименовать"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "Переименование не поддерживается для этого формата ({fstype})."
+
+msgid "SMART status…"
+msgstr "Состояние SMART…"
+
+msgid "SMART unavailable"
+msgstr "SMART недоступен"
+
+msgid "Safely remove"
+msgstr "Безопасно извлечь"
+
+msgid "Searching…"
+msgstr "Поиск…"
+
+msgid "Server address:"
+msgstr "Адрес сервера:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "Сервер недоступен. Проверьте адрес и убедитесь, что сервер включён."
+
+msgid "Share name (required):"
+msgstr "Имя общего ресурса (обязательно):"
+
+msgid "Shares found:"
+msgstr "Найденные общие ресурсы:"
+
+msgid "Show more"
+msgstr "Показать больше"
+
+msgid "Show the full ribbon"
+msgstr "Показать полную ленту"
+
+msgid "Status:"
+msgstr "Состояние:"
+
+msgid "System"
+msgstr "Система"
+
+msgid "System Settings"
+msgstr "Параметры системы"
+
+msgid "System information"
+msgstr "Сведения о системе"
+
+msgid "TB"
+msgstr "ТБ"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "Не удалось повторно смонтировать диск:\n{detail}\n\nОтсоедините его и подключите снова."
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "Окончательный пароль запрашивает Dolphin при первом открытии; можно попросить его запомнить пароль."
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "Имя пусто или содержит недопустимый символ."
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "Имя слишком длинное для этого формата (максимум {max} символов)."
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "Программа «{name}» не установлена на этом компьютере."
+
+msgid "The search failed."
+msgstr "Не удалось выполнить поиск."
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "Адрес сервера пуст или содержит недопустимый символ."
+
+msgid "The server is not responding (timed out)."
+msgstr "Сервер не отвечает (превышено время ожидания)."
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "Имя общего ресурса пусто или содержит недопустимый символ."
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "Команда smartctl не найдена.\n\nУстановите пакет smartmontools, чтобы включить эту функцию."
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "Программа smbclient не установлена (пакет «samba»). Введите имя общего ресурса вручную или после добавления воспользуйтесь кнопкой «Открыть»."
+
+msgid "The udisksctl command was not found on this system."
+msgstr "Команда udisksctl не найдена в этой системе."
+
+msgid "The username contains a forbidden character."
+msgstr "Имя пользователя содержит недопустимый символ."
+
+msgid "The username is required to remember the password."
+msgstr "Чтобы запомнить пароль, необходимо указать имя пользователя."
+
+msgid "The username is required."
+msgstr "Имя пользователя обязательно."
+
+msgid "This PC"
+msgstr "Этот компьютер"
+
+msgid "This location already exists in the list."
+msgstr "Это расположение уже есть в списке."
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "Это программное обеспечение не связано с корпорацией Microsoft и не одобрено ею. Windows является товарным знаком корпорации Microsoft."
+
+msgid "Touchpad"
+msgstr "Сенсорная панель"
+
+msgid "Type the password to be able to remember it."
+msgstr "Введите пароль, чтобы его можно было запомнить."
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Unmounting the disk failed."
+msgstr "Не удалось размонтировать диск."
+
+msgid "Unmounting {label} timed out."
+msgstr "Время размонтирования {label} истекло."
+
+msgid "Used: {size}"
+msgstr "Занято: {size}"
+
+msgid "Username (required):"
+msgstr "Имя пользователя (обязательно):"
+
+msgid "Version {version} · Plasma version"
+msgstr "Версия {version} · версия для Plasma"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "Volume name"
+msgstr "Имя тома"
+
+msgid "filled in from the list, or type it"
+msgstr "заполняется из списка или вводится вручную"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus не найден или превышено время ожидания."
+
+msgid "only for “List”, never saved"
+msgstr "только для «Показать», нигде не сохраняется"
+
+msgid "unknown error"
+msgstr "неизвестная ошибка"
+
+msgid "{free} free of {total}"
+msgstr "Свободно {free} из {total}"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} размонтирован, но его не удалось отключить от питания:\n{detail}\n\nВы всё равно можете его отсоединить."
+
+msgid "{n} item(s)"
+msgstr "Элементов: {n}"
+
+msgid "{share} on {host}"
+msgstr "{share} на {host}"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "«{name}» не отвечает. Убедитесь, что устройство включено и подключено к сети."
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 или более поздняя"
+
+msgid "GPL-3.0 only"
+msgstr "только GPL-3.0"

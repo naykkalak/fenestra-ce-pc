@@ -1,0 +1,425 @@
+# Ce PC (Fenestra) : traduction "tr"
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10, nas-adı veya smb://..."
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "About This PC"
+msgstr "Bu bilgisayar hakkında"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Add a network location"
+msgstr "Ağ konumu ekle"
+
+msgid "Add a network location…"
+msgstr "Ağ konumu ekle…"
+
+msgid "Author: {author}"
+msgstr "Yazar: {author}"
+
+msgid "Available"
+msgstr "Kullanılabilir"
+
+msgid "Built-in"
+msgstr "Dahili"
+
+msgid "CD/DVD Drive"
+msgstr "CD/DVD sürücüsü"
+
+msgid "Cannot add"
+msgstr "Eklenemiyor"
+
+msgid "Cannot eject"
+msgstr "Çıkarılamıyor"
+
+msgid "Cannot open"
+msgstr "Açılamıyor"
+
+msgid "Cannot remove"
+msgstr "Kaldırılamıyor"
+
+msgid "Cannot rename"
+msgstr "Yeniden adlandırılamıyor"
+
+msgid "Capacity: {size}"
+msgstr "Kapasite: {size}"
+
+msgid "Choose a share…"
+msgstr "Bir paylaşım seçin…"
+
+msgid "Collapse the ribbon"
+msgstr "Şeridi daralt"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "Komut çubuğu simgeleri: Fluent UI System Icons, © Microsoft Corporation, MIT lisansı."
+
+msgid "Connected via USB"
+msgstr "USB ile bağlı"
+
+msgid "Could not save the list:\n{error}"
+msgstr "Liste kaydedilemedi:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "Diskin bağlantısı kesilemedi:\n{detail}\n\nBu sürücüyü kullanan pencereleri ve uygulamaları kapatıp yeniden deneyin."
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "{label} bağlantısı kesilemedi:\n{detail}\n\nBu sürücüde hâlâ açık dosya olmadığını denetleyin."
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Desktop"
+msgstr "Masaüstü"
+
+msgid "Detected automatically on the network"
+msgstr "Ağda otomatik olarak algılandı"
+
+msgid "Device:"
+msgstr "Aygıt:"
+
+msgid "Devices and drives ({n})"
+msgstr "Aygıtlar ve sürücüler ({n})"
+
+msgid "Display name (optional):"
+msgstr "Görünen ad (isteğe bağlı):"
+
+msgid "Documents"
+msgstr "Belgeler"
+
+msgid "Downloads"
+msgstr "İndirilenler"
+
+msgid "Eject"
+msgstr "Çıkar"
+
+msgid "File system:"
+msgstr "Dosya sistemi:"
+
+msgid "Folders ({n})"
+msgstr "Klasörler ({n})"
+
+msgid "Free: {size}"
+msgstr "Boş: {size}"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Game controller"
+msgstr "Oyun kumandası"
+
+msgid "Graphics tablet"
+msgstr "Grafik tablet"
+
+msgid "Incorrect username or password."
+msgstr "Kullanıcı adı veya parola hatalı."
+
+msgid "Ink levels"
+msgstr "Mürekkep düzeyleri"
+
+msgid "Insufficient rights"
+msgstr "Yetersiz haklar"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet parolayı kaydedemedi: boş alan göstergesi gösterilmeyecek."
+
+msgid "Keyboard"
+msgstr "Klavye"
+
+msgid "License: {license}"
+msgstr "Lisans: {license}"
+
+msgid "List"
+msgstr "Listele"
+
+msgid "Local Disk"
+msgstr "Yerel disk"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Location unavailable"
+msgstr "Konum kullanılamıyor"
+
+msgid "Mount point:"
+msgstr "Bağlama noktası:"
+
+msgid "Mouse"
+msgstr "Fare"
+
+msgid "Music"
+msgstr "Müzik"
+
+msgid "My NAS"
+msgstr "NAS'ım"
+
+msgid "Network"
+msgstr "Ağ"
+
+msgid "Network location"
+msgstr "Ağ konumu"
+
+msgid "Network locations ({n})"
+msgstr "Ağ konumları ({n})"
+
+msgid "Network location…"
+msgstr "Ağ konumu…"
+
+msgid "No disc"
+msgstr "Disk yok"
+
+msgid "No information available."
+msgstr "Kullanılabilir bilgi yok."
+
+msgid "No share visible with these credentials."
+msgstr "Bu kimlik bilgileriyle görünen paylaşım yok."
+
+msgid "Not connected"
+msgstr "Bağlı değil"
+
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Open with Dolphin"
+msgstr "Dolphin ile aç"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "KDE Plasma'ya Windows 11 masaüstü görünümü veren Fenestra serisinin bir parçasıdır."
+
+msgid "Partial eject"
+msgstr "Kısmen çıkarıldı"
+
+msgid "Password not remembered"
+msgstr "Parola hatırlanmadı"
+
+msgid "Password:"
+msgstr "Parola:"
+
+msgid "Pictures"
+msgstr "Resimler"
+
+msgid "Printer"
+msgstr "Yazıcı"
+
+msgid "Printers and devices ({n})"
+msgstr "Yazıcılar ve aygıtlar ({n})"
+
+msgid "Printing"
+msgstr "Yazdırılıyor"
+
+msgid "Program not found"
+msgstr "Program bulunamadı"
+
+msgid "Properties"
+msgstr "Özellikler"
+
+msgid "Properties of {name}"
+msgstr "{name} özellikleri"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "SMART okumak için root hakları gerekir ve pkexec (grafik yetki yükseltme) bu sistemde bulunamadı."
+
+msgid "Reading SMART timed out."
+msgstr "SMART okuma zaman aşımına uğradı."
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Refresh"
+msgstr "Yenile"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "Boş alanı göstermek için parolayı hatırla (KWallet)"
+
+msgid "Remount failed"
+msgstr "Yeniden bağlama başarısız"
+
+msgid "Removable Disk"
+msgstr "Çıkarılabilir Disk"
+
+msgid "Removable disk"
+msgstr "Çıkarılabilir disk"
+
+msgid "Remove from list"
+msgstr "Listeden kaldır"
+
+msgid "Remove this location"
+msgstr "Bu konumu kaldır"
+
+msgid "Rename"
+msgstr "Yeniden adlandır"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "Bu biçim ({fstype}) için yeniden adlandırma desteklenmiyor."
+
+msgid "SMART status…"
+msgstr "SMART durumu…"
+
+msgid "SMART unavailable"
+msgstr "SMART kullanılamıyor"
+
+msgid "Safely remove"
+msgstr "Güvenle kaldır"
+
+msgid "Searching…"
+msgstr "Aranıyor…"
+
+msgid "Server address:"
+msgstr "Sunucu adresi:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "Sunucuya ulaşılamıyor. Adresi ve sunucunun açık olduğunu denetleyin."
+
+msgid "Share name (required):"
+msgstr "Paylaşım adı (gerekli):"
+
+msgid "Shares found:"
+msgstr "Bulunan paylaşımlar:"
+
+msgid "Show more"
+msgstr "Daha fazla göster"
+
+msgid "Show the full ribbon"
+msgstr "Tam şeridi göster"
+
+msgid "Status:"
+msgstr "Durum:"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System Settings"
+msgstr "Sistem ayarları"
+
+msgid "System information"
+msgstr "Sistem bilgileri"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "Disk yeniden bağlanamadı:\n{detail}\n\nÇıkarıp yeniden takın."
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "Kesin parola, ilk açılışta Dolphin tarafından istenir; ondan hatırlamasını isteyebilirsiniz."
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "Ad boş veya izin verilmeyen bir karakter içeriyor."
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "Ad bu biçim için çok uzun (en fazla {max} karakter)."
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "“{name}” programı bu bilgisayarda yüklü değil."
+
+msgid "The search failed."
+msgstr "Arama başarısız oldu."
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "Sunucu adresi boş veya izin verilmeyen bir karakter içeriyor."
+
+msgid "The server is not responding (timed out)."
+msgstr "Sunucu yanıt vermiyor (zaman aşımı)."
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "Paylaşım adı boş veya izin verilmeyen bir karakter içeriyor."
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "smartctl komutu bulunamadı.\n\nBu özelliği etkinleştirmek için smartmontools paketini yükleyin."
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "smbclient programı yüklü değil (“samba” paketi). Paylaşım adını elle yazın veya ekledikten sonra “Aç” düğmesini kullanın."
+
+msgid "The udisksctl command was not found on this system."
+msgstr "udisksctl komutu bu sistemde bulunamadı."
+
+msgid "The username contains a forbidden character."
+msgstr "Kullanıcı adı izin verilmeyen bir karakter içeriyor."
+
+msgid "The username is required to remember the password."
+msgstr "Parolayı hatırlamak için kullanıcı adı gerekli."
+
+msgid "The username is required."
+msgstr "Kullanıcı adı gerekli."
+
+msgid "This PC"
+msgstr "Bu bilgisayar"
+
+msgid "This location already exists in the list."
+msgstr "Bu konum listede zaten var."
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "Bu yazılım Microsoft Corporation ile bağlantılı değildir ve onun tarafından onaylanmamıştır. Windows, Microsoft Corporation'ın ticari markasıdır."
+
+msgid "Touchpad"
+msgstr "Dokunmatik yüzey"
+
+msgid "Type the password to be able to remember it."
+msgstr "Parolayı hatırlayabilmek için parolayı yazın."
+
+msgid "Type:"
+msgstr "Tür:"
+
+msgid "Unmounting the disk failed."
+msgstr "Diskin bağlantısı kesilemedi."
+
+msgid "Unmounting {label} timed out."
+msgstr "{label} bağlantısının kesilmesi zaman aşımına uğradı."
+
+msgid "Used: {size}"
+msgstr "Kullanılan: {size}"
+
+msgid "Username (required):"
+msgstr "Kullanıcı adı (gerekli):"
+
+msgid "Version {version} · Plasma version"
+msgstr "Sürüm {version} · Plasma sürümü"
+
+msgid "Videos"
+msgstr "Videolar"
+
+msgid "Volume name"
+msgstr "Birim adı"
+
+msgid "filled in from the list, or type it"
+msgstr "listeden doldurulur veya elle yazılır"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus bulunamadı veya zaman aşımına uğradı."
+
+msgid "only for “List”, never saved"
+msgstr "yalnızca “Listele” için, hiçbir zaman kaydedilmez"
+
+msgid "unknown error"
+msgstr "bilinmeyen hata"
+
+msgid "{free} free of {total}"
+msgstr "{total} içinden {free} boş"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} bağlantısı kesildi ancak kapatılamadı:\n{detail}\n\nYine de çıkarabilirsiniz."
+
+msgid "{n} item(s)"
+msgstr "{n} öğe"
+
+msgid "{share} on {host}"
+msgstr "{host} üzerinde {share}"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "“{name}” yanıt vermiyor. Açık ve ağa bağlı olduğunu denetleyin."
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 veya sonrası"
+
+msgid "GPL-3.0 only"
+msgstr "yalnızca GPL-3.0"

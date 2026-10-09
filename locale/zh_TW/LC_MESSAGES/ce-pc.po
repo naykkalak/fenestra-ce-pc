@@ -1,0 +1,425 @@
+# Ce PC (Fenestra) : traduction "zh_TW"
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_TW\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10、NAS 名稱或 smb://..."
+
+msgid "About"
+msgstr "關於"
+
+msgid "About This PC"
+msgstr "關於本機"
+
+msgid "Add"
+msgstr "新增"
+
+msgid "Add a network location"
+msgstr "新增網路位置"
+
+msgid "Add a network location…"
+msgstr "新增網路位置…"
+
+msgid "Author: {author}"
+msgstr "作者: {author}"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Built-in"
+msgstr "內建"
+
+msgid "CD/DVD Drive"
+msgstr "CD/DVD 光碟機"
+
+msgid "Cannot add"
+msgstr "無法新增"
+
+msgid "Cannot eject"
+msgstr "無法退出"
+
+msgid "Cannot open"
+msgstr "無法開啟"
+
+msgid "Cannot remove"
+msgstr "無法移除"
+
+msgid "Cannot rename"
+msgstr "無法重新命名"
+
+msgid "Capacity: {size}"
+msgstr "容量: {size}"
+
+msgid "Choose a share…"
+msgstr "選擇共用…"
+
+msgid "Collapse the ribbon"
+msgstr "摺疊功能區"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "命令列圖示: Fluent UI System Icons,© Microsoft Corporation,MIT 授權。"
+
+msgid "Connected via USB"
+msgstr "已透過 USB 連線"
+
+msgid "Could not save the list:\n{error}"
+msgstr "無法儲存清單:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "無法卸載磁碟:\n{detail}\n\n請關閉使用此磁碟機的視窗和應用程式,然後再試一次。"
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "無法卸載 {label}:\n{detail}\n\n請檢查此磁碟機上是否仍有開啟的檔案。"
+
+msgid "Default"
+msgstr "預設"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Detected automatically on the network"
+msgstr "已在網路上自動偵測到"
+
+msgid "Device:"
+msgstr "裝置:"
+
+msgid "Devices and drives ({n})"
+msgstr "裝置和磁碟機 ({n})"
+
+msgid "Display name (optional):"
+msgstr "顯示名稱(選填):"
+
+msgid "Documents"
+msgstr "文件"
+
+msgid "Downloads"
+msgstr "下載"
+
+msgid "Eject"
+msgstr "退出"
+
+msgid "File system:"
+msgstr "檔案系統:"
+
+msgid "Folders ({n})"
+msgstr "資料夾 ({n})"
+
+msgid "Free: {size}"
+msgstr "可用: {size}"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Game controller"
+msgstr "遊戲控制器"
+
+msgid "Graphics tablet"
+msgstr "繪圖板"
+
+msgid "Incorrect username or password."
+msgstr "使用者名稱或密碼不正確。"
+
+msgid "Ink levels"
+msgstr "墨水量"
+
+msgid "Insufficient rights"
+msgstr "權限不足"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet 無法儲存密碼:將不會顯示空間條。"
+
+msgid "Keyboard"
+msgstr "鍵盤"
+
+msgid "License: {license}"
+msgstr "授權: {license}"
+
+msgid "List"
+msgstr "列出"
+
+msgid "Local Disk"
+msgstr "本機磁碟"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Location unavailable"
+msgstr "位置無法使用"
+
+msgid "Mount point:"
+msgstr "掛載點:"
+
+msgid "Mouse"
+msgstr "滑鼠"
+
+msgid "Music"
+msgstr "音樂"
+
+msgid "My NAS"
+msgstr "我的 NAS"
+
+msgid "Network"
+msgstr "網路"
+
+msgid "Network location"
+msgstr "網路位置"
+
+msgid "Network locations ({n})"
+msgstr "網路位置 ({n})"
+
+msgid "Network location…"
+msgstr "網路位置…"
+
+msgid "No disc"
+msgstr "無光碟"
+
+msgid "No information available."
+msgstr "沒有可用的資訊。"
+
+msgid "No share visible with these credentials."
+msgstr "使用這些認證看不到任何共用。"
+
+msgid "Not connected"
+msgstr "未連線"
+
+msgid "Offline"
+msgstr "離線"
+
+msgid "Open"
+msgstr "開啟"
+
+msgid "Open with Dolphin"
+msgstr "以 Dolphin 開啟"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "屬於 Fenestra 系列,為 KDE Plasma 帶來 Windows 11 桌面的外觀。"
+
+msgid "Partial eject"
+msgstr "部分退出"
+
+msgid "Password not remembered"
+msgstr "未記住密碼"
+
+msgid "Password:"
+msgstr "密碼:"
+
+msgid "Pictures"
+msgstr "圖片"
+
+msgid "Printer"
+msgstr "印表機"
+
+msgid "Printers and devices ({n})"
+msgstr "印表機和裝置 ({n})"
+
+msgid "Printing"
+msgstr "列印中"
+
+msgid "Program not found"
+msgstr "找不到程式"
+
+msgid "Properties"
+msgstr "內容"
+
+msgid "Properties of {name}"
+msgstr "{name} 內容"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "讀取 SMART 需要 root 權限,而此系統上找不到 pkexec(圖形化提升權限)。"
+
+msgid "Reading SMART timed out."
+msgstr "讀取 SMART 逾時。"
+
+msgid "Ready"
+msgstr "就緒"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "記住密碼 (KWallet) 以顯示可用空間"
+
+msgid "Remount failed"
+msgstr "重新掛載失敗"
+
+msgid "Removable Disk"
+msgstr "卸除式磁碟"
+
+msgid "Removable disk"
+msgstr "卸除式磁碟"
+
+msgid "Remove from list"
+msgstr "從清單中移除"
+
+msgid "Remove this location"
+msgstr "移除此位置"
+
+msgid "Rename"
+msgstr "重新命名"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "此格式 ({fstype}) 不支援重新命名。"
+
+msgid "SMART status…"
+msgstr "SMART 狀態…"
+
+msgid "SMART unavailable"
+msgstr "SMART 無法使用"
+
+msgid "Safely remove"
+msgstr "安全移除"
+
+msgid "Searching…"
+msgstr "搜尋中…"
+
+msgid "Server address:"
+msgstr "伺服器位址:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "無法連線到伺服器。請檢查位址以及伺服器是否已開機。"
+
+msgid "Share name (required):"
+msgstr "共用名稱(必填):"
+
+msgid "Shares found:"
+msgstr "找到的共用:"
+
+msgid "Show more"
+msgstr "顯示更多"
+
+msgid "Show the full ribbon"
+msgstr "顯示完整功能區"
+
+msgid "Status:"
+msgstr "狀態:"
+
+msgid "System"
+msgstr "系統"
+
+msgid "System Settings"
+msgstr "系統設定"
+
+msgid "System information"
+msgstr "系統資訊"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "無法重新掛載磁碟:\n{detail}\n\n請拔除後再重新插入。"
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "最終密碼由 Dolphin 在第一次開啟時詢問;您可以讓它記住密碼。"
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "名稱為空,或包含不允許的字元。"
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "名稱對此格式而言太長(最多 {max} 個字元)。"
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "此電腦上未安裝程式「{name}」。"
+
+msgid "The search failed."
+msgstr "搜尋失敗。"
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "伺服器位址為空,或包含不允許的字元。"
+
+msgid "The server is not responding (timed out)."
+msgstr "伺服器沒有回應(逾時)。"
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "共用名稱為空,或包含不允許的字元。"
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "找不到 smartctl 指令。\n\n請安裝 smartmontools 套件以啟用此功能。"
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "未安裝 smbclient 程式(套件「samba」)。請手動輸入共用名稱,或在新增後使用「開啟」按鈕。"
+
+msgid "The udisksctl command was not found on this system."
+msgstr "在此系統上找不到 udisksctl 指令。"
+
+msgid "The username contains a forbidden character."
+msgstr "使用者名稱包含不允許的字元。"
+
+msgid "The username is required to remember the password."
+msgstr "記住密碼需要填寫使用者名稱。"
+
+msgid "The username is required."
+msgstr "必須填寫使用者名稱。"
+
+msgid "This PC"
+msgstr "本機"
+
+msgid "This location already exists in the list."
+msgstr "此位置已在清單中。"
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "本軟體與 Microsoft Corporation 無關,也未獲其認可。Windows 是 Microsoft Corporation 的商標。"
+
+msgid "Touchpad"
+msgstr "觸控板"
+
+msgid "Type the password to be able to remember it."
+msgstr "請輸入密碼以便記住它。"
+
+msgid "Type:"
+msgstr "類型:"
+
+msgid "Unmounting the disk failed."
+msgstr "卸載磁碟失敗。"
+
+msgid "Unmounting {label} timed out."
+msgstr "卸載 {label} 逾時。"
+
+msgid "Used: {size}"
+msgstr "已使用: {size}"
+
+msgid "Username (required):"
+msgstr "使用者名稱(必填):"
+
+msgid "Version {version} · Plasma version"
+msgstr "版本 {version} · Plasma 版"
+
+msgid "Videos"
+msgstr "影片"
+
+msgid "Volume name"
+msgstr "磁碟區名稱"
+
+msgid "filled in from the list, or type it"
+msgstr "從清單填入,或手動輸入"
+
+msgid "gdbus not found or timed out."
+msgstr "找不到 gdbus 或已逾時。"
+
+msgid "only for “List”, never saved"
+msgstr "僅用於「列出」,不會儲存"
+
+msgid "unknown error"
+msgstr "未知的錯誤"
+
+msgid "{free} free of {total}"
+msgstr "{total} 中有 {free} 可用"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} 已卸載,但無法關閉電源:\n{detail}\n\n您仍然可以直接拔除。"
+
+msgid "{n} item(s)"
+msgstr "{n} 個項目"
+
+msgid "{share} on {host}"
+msgstr "{host} 上的 {share}"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "「{name}」沒有回應。請確認它已開機並連線到網路。"
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 或更新版本"
+
+msgid "GPL-3.0 only"
+msgstr "僅 GPL-3.0"
