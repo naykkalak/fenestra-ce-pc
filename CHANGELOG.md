@@ -23,7 +23,7 @@
 - **Options window** (System group of the ribbon):
   - **Open items with a single click**: linked both ways to the Plasma setting, so it also applies to Dolphin and the desktop (suggested by Sadi58).
   - **Free space alert** adjustable from 20 % to 10 % (20 % by default): the drive gauge turns red below this level. The slider reads in the same direction as the gauge.
-  - **Check for a new version once a week**, moved here from the About window.
+  - **Check for a new version once a week**, moved here from the About window (only shown when updates do not go through Discover).
 - **Missing Skanpage**: when the scanner card cannot open Skanpage because it is not installed, the message now offers **Search in Discover** (only if Discover is present). Nothing is installed by This PC.
 - **Scroll bar in the Windows 11 style**, the same as in Fenestra Menu 11: hidden at rest, thin while the mouse moves, wider on hover.
 
