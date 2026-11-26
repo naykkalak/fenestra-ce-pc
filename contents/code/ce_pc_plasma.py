@@ -1939,6 +1939,12 @@ def inscrit_dans_liste_store():
         return False
 
 
+def discover_gere_les_maj():
+    """True only if This PC is in the KDE Store list AND Discover is installed. Without Discover
+    (e.g. Manjaro, which uses Pamac) nobody offers the updates: the version check stays active."""
+    return inscrit_dans_liste_store() and bool(shutil.which("plasma-discover"))
+
+
 def _version_tuple(v):
     return tuple(int(x) for x in re.findall(r"\d+", v or "")[:4])
 
@@ -2088,7 +2094,7 @@ class Backend(QObject):
         if test:
             self.updateAvailable.emit(test, MAJ_PAGE)
             return
-        if inscrit_dans_liste_store():   # Discover already follows this component and warns about updates: no banner
+        if discover_gere_les_maj():   # Discover follows this component and warns about updates: no banner
             return
         if time.time() - self._maj["last"] >= MAJ_INTERVALLE:
             lu = lire_derniere_version()
@@ -2099,8 +2105,8 @@ class Backend(QObject):
             self.updateAvailable.emit(self._maj["latest"], self._maj["url"] or MAJ_PAGE)
 
     @pyqtProperty(bool, constant=True)
-    def storeListed(self):   # This PC is in the KDE Store list: Discover offers the updates
-        return inscrit_dans_liste_store()
+    def storeListed(self):   # Discover offers the updates (component in the KDE Store list and Discover installed)
+        return discover_gere_les_maj()
 
     @pyqtProperty(bool, constant=True)
     def updateCheck(self):
@@ -6207,7 +6213,7 @@ def bar_icons():
     return res
 
 
-APP_VERSION = '2.1'
+APP_VERSION = '2.1.1'
 APP_AUTEUR = 'naykkalak'
 APP_LICENCE = 'GPL-3.0-or-later'
 
