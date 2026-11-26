@@ -32,7 +32,7 @@ OLD=0
 for f in "${OLD_FILES[@]}"; do [ -e "$f" ] && OLD=1; done
 if [ "$OLD" = 1 ]; then
     echo "A previous version of This PC (1.x or 2.0) was found."
-    echo "It will be uninstalled before installing This PC 2.1 (your settings are kept)."
+    echo "It will be uninstalled before installing This PC 2.1.1 (your settings are kept)."
     if [ -t 0 ]; then
         printf "Continue? [Y/n] "
         read -r answer || answer="n"

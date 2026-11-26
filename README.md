@@ -10,7 +10,7 @@ It shows, in one window, your personal folders, your drives, your network locati
 
 ![This PC](docs/preview.png)
 
-> **Version 2.1 is a Plasma component.** If you have an older version (1.x) installed, it is uninstalled for you by the install script (your settings are kept). After downloading, run `bash install.sh` once. From then on, **updates are offered by Discover**, with your other updates.
+> **Version 2.1.1 is a Plasma component.** If you have an older version (1.x) installed, it is uninstalled for you by the install script (your settings are kept). After downloading, run `bash install.sh` once. From then on, **updates are offered by Discover**, with your other updates.
 
 ## Features
 
@@ -151,7 +151,7 @@ English and French are written by the author. The other languages were translate
 
 ## Privacy
 
-This PC sends nothing about you. When the updates go through Discover (the default after `install.sh`), it makes no request of its own: Discover handles them. Otherwise, the only request it makes on its own is the weekly version check: it asks GitHub for the number of the latest release. As with any visit to a website, GitHub sees your IP address. Untick "Check for a new version once a week" in Options to stop it.
+This PC sends nothing about you. When the updates go through Discover (the default after `install.sh` when Discover is installed), it makes no request of its own: Discover handles them. Otherwise, the only request it makes on its own is the weekly version check: it asks GitHub for the number of the latest release. As with any visit to a website, GitHub sees your IP address. Untick "Check for a new version once a week" in Options to stop it.
 
 ## Related projects
 
