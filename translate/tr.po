@@ -1,0 +1,862 @@
+# Fenestra This PC: "tr" translation
+# Copyright (C) naykkalak (2026) for Fenestra This PC
+# SPDX-License-Identifier: GPL-3.0-or-later
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10, nas-adı veya smb://..."
+
+msgid "A few seconds. The old data is not overwritten."
+msgstr "Birkaç saniye. Eski veriler üzerine yazılmaz."
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "About This PC"
+msgstr "Bu bilgisayar hakkında"
+
+msgid "Add a network location"
+msgstr "Ağ konumu ekle"
+
+msgid "All the data on “{name}” will be permanently erased."
+msgstr "“{name}” üzerindeki tüm veriler kalıcı olarak silinecek."
+
+msgid "Analyze space…"
+msgstr "Alanı çözümle…"
+
+msgid "Author: {author}"
+msgstr "Yazar: {author}"
+
+msgid "Available"
+msgstr "Kullanılabilir"
+
+msgid "Available spare"
+msgstr "Kullanılabilir yedek"
+
+msgid "Back up your files now and plan to replace this disk. A file stored on a damaged sector can be lost."
+msgstr "Dosyalarınızı hemen yedekleyin ve bu diski değiştirmeyi planlayın. Hasarlı bir sektördeki dosya kaybolabilir."
+
+msgid "Bad sectors"
+msgstr "Bozuk sektörler"
+
+msgid "Black"
+msgstr "Siyah"
+
+msgid "Brand"
+msgstr "Marka"
+
+msgid "Built-in"
+msgstr "Dahili"
+
+msgid "CD/DVD Drive"
+msgstr "CD/DVD sürücüsü"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Cannot add"
+msgstr "Eklenemiyor"
+
+msgid "Cannot eject"
+msgstr "Çıkarılamıyor"
+
+msgid "Cannot open"
+msgstr "Açılamıyor"
+
+msgid "Cannot remove"
+msgstr "Kaldırılamıyor"
+
+msgid "Cannot rename"
+msgstr "Yeniden adlandırılamıyor"
+
+msgid "Capacity"
+msgstr "Kapasite"
+
+msgid "Capacity: {size}"
+msgstr "Kapasite: {size}"
+
+msgid "Check for a new version once a week"
+msgstr "Haftada bir yeni sürüm denetle"
+
+msgid "Choose a share…"
+msgstr "Bir paylaşım seçin…"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "Komut çubuğu simgeleri: Fluent UI System Icons, © Microsoft Corporation, MIT lisansı."
+
+msgid "Connected via USB"
+msgstr "USB ile bağlı"
+
+msgid "Could not save the list:\n{error}"
+msgstr "Liste kaydedilemedi:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "Diskin bağlantısı kesilemedi:\n{detail}\n\nBu sürücüyü kullanan pencereleri ve uygulamaları kapatıp yeniden deneyin."
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "{label} bağlantısı kesilemedi:\n{detail}\n\nBu sürücüde hâlâ açık dosya olmadığını denetleyin."
+
+msgid "Cyan"
+msgstr "Camgöbeği"
+
+msgid "Damaged"
+msgstr "Hasarlı"
+
+msgid "Data errors"
+msgstr "Veri hataları"
+
+msgid "Data errors have been detected."
+msgstr "Veri hataları algılandı."
+
+msgid "Data read"
+msgstr "Okunan veri"
+
+msgid "Data written"
+msgstr "Yazılan veri"
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Desktop"
+msgstr "Masaüstü"
+
+msgid "Detailed report…"
+msgstr "Ayrıntılı rapor…"
+
+msgid "Details"
+msgstr "Ayrıntılar"
+
+msgid "Detected automatically on the network"
+msgstr "Ağda otomatik olarak algılandı"
+
+msgid "Device"
+msgstr "Aygıt"
+
+msgid "Device:"
+msgstr "Aygıt:"
+
+msgid "Devices and drives ({n})"
+msgstr "Aygıtlar ve sürücüler ({n})"
+
+msgid "Disk failing – back up your files"
+msgstr "Disk arızalı – dosyalarınızı yedekleyin"
+
+msgid "Disk health"
+msgstr "Disk sağlığı"
+
+msgid "Disk self-test"
+msgstr "Disk öz sınaması"
+
+msgid "Display name (optional):"
+msgstr "Görünen ad (isteğe bağlı):"
+
+msgid "Documents"
+msgstr "Belgeler"
+
+msgid "Downloads"
+msgstr "İndirilenler"
+
+msgid "Eject"
+msgstr "Çıkar"
+
+msgid "File system"
+msgstr "Dosya sistemi"
+
+msgid "File system:"
+msgstr "Dosya sistemi:"
+
+msgid "Firmware"
+msgstr "Bellenim"
+
+msgid "Folders ({n})"
+msgstr "Klasörler ({n})"
+
+msgid "For a disk used mainly with Windows."
+msgstr "Çoğunlukla Windows ile kullanılan bir disk için."
+
+msgid "For a disk used only with Linux."
+msgstr "Yalnızca Linux ile kullanılan bir disk için."
+
+msgid "Format"
+msgstr "Biçimlendir"
+
+msgid "Format cancelled: the volume must be formatted again before use."
+msgstr "Biçimlendirme iptal edildi: birim kullanılmadan önce yeniden biçimlendirilmeli."
+
+msgid "Format complete."
+msgstr "Biçimlendirme tamamlandı."
+
+msgid "Format {name}"
+msgstr "{name} biçimlendir"
+
+msgid "Formatting failed."
+msgstr "Biçimlendirme başarısız oldu."
+
+msgid "Formatting options"
+msgstr "Biçimlendirme seçenekleri"
+
+msgid "Formatting…"
+msgstr "Biçimlendiriliyor…"
+
+msgid "Format…"
+msgstr "Biçimlendir…"
+
+msgid "Free space"
+msgstr "Boş alan"
+
+msgid "Free: {size}"
+msgstr "Boş: {size}"
+
+msgid "Full test"
+msgstr "Tam sınama"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GPL-3.0 only"
+msgstr "yalnızca GPL-3.0"
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 veya sonrası"
+
+msgid "Game controller"
+msgstr "Oyun kumandası"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Good condition"
+msgstr "İyi durumda"
+
+msgid "Graphics tablet"
+msgstr "Grafik tablet"
+
+msgid "Gray"
+msgstr "Gri"
+
+msgid "Hard disk drive"
+msgstr "Sabit disk"
+
+msgid "Health"
+msgstr "Sağlık"
+
+msgid "Health information not available"
+msgstr "Sağlık bilgisi yok"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Incorrect username or password."
+msgstr "Kullanıcı adı veya parola hatalı."
+
+msgid "Information"
+msgstr "Bilgiler"
+
+msgid "Ink levels"
+msgstr "Mürekkep düzeyleri"
+
+msgid "Insufficient rights"
+msgstr "Yetersiz haklar"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet parolayı kaydedemedi: boş alan göstergesi gösterilmeyecek."
+
+msgid "Keep an eye on this disk: run the scan again later to compare."
+msgstr "Bu diski izleyin: karşılaştırmak için taramayı daha sonra yineleyin."
+
+msgid "Keyboard"
+msgstr "Klavye"
+
+msgid "Last self-test: passed."
+msgstr "Son öz sınama: başarılı."
+
+msgid "License: {license}"
+msgstr "Lisans: {license}"
+
+msgid "Lifetime used"
+msgstr "Kullanılan ömür"
+
+msgid "Light cyan"
+msgstr "Açık camgöbeği"
+
+msgid "Light magenta"
+msgstr "Açık eflatun"
+
+msgid "List"
+msgstr "Listele"
+
+msgid "Local Disk"
+msgstr "Yerel disk"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Location unavailable"
+msgstr "Konum kullanılamıyor"
+
+msgid "Magenta"
+msgstr "Eflatun"
+
+msgid "Manufacturer's estimate. At 100 %, the disk has reached its expected lifespan."
+msgstr "Üretici tahmini. %100'de disk beklenen ömrüne ulaşır."
+
+msgid "Matte black"
+msgstr "Mat siyah"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Mount point"
+msgstr "Bağlama noktası"
+
+msgid "Mount point:"
+msgstr "Bağlama noktası:"
+
+msgid "Mouse"
+msgstr "Fare"
+
+msgid "Music"
+msgstr "Müzik"
+
+msgid "My NAS"
+msgstr "NAS'ım"
+
+msgid "Network"
+msgstr "Ağ"
+
+msgid "Network location"
+msgstr "Ağ konumu"
+
+msgid "Network locations ({n})"
+msgstr "Ağ konumları ({n})"
+
+msgid "No disc"
+msgstr "Disk yok"
+
+msgid "No information available."
+msgstr "Kullanılabilir bilgi yok."
+
+msgid "No share visible with these credentials."
+msgstr "Bu kimlik bilgileriyle görünen paylaşım yok."
+
+msgid "No sign of abnormal wear."
+msgstr "Olağan dışı yıpranma belirtisi yok."
+
+msgid "None"
+msgstr "Yok"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Not available on this computer (missing tool: {tool})."
+msgstr "Bu bilgisayarda kullanılamıyor (eksik araç: {tool})."
+
+msgid "Not connected"
+msgstr "Bağlı değil"
+
+msgid "Not read"
+msgstr "Okunmadı"
+
+msgid "Number of sectors"
+msgstr "Sektör sayısı"
+
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+msgid "One square"
+msgstr "Bir kare"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Open in Dolphin"
+msgstr "Dolphin'de aç"
+
+msgid "Open with Dolphin"
+msgstr "Dolphin ile aç"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "KDE Plasma'ya Windows 11 masaüstü görünümü veren Fenestra serisinin bir parçasıdır."
+
+msgid "Partial eject"
+msgstr "Kısmen çıkarıldı"
+
+msgid "Password not remembered"
+msgstr "Parola hatırlanmadı"
+
+msgid "Password:"
+msgstr "Parola:"
+
+msgid "Photo black"
+msgstr "Fotoğraf siyahı"
+
+msgid "Pictures"
+msgstr "Resimler"
+
+msgid "Power cycles"
+msgstr "Açılma sayısı"
+
+msgid "Power-on time"
+msgstr "Çalışma süresi"
+
+msgid "Printer"
+msgstr "Yazıcı"
+
+msgid "Printers and devices ({n})"
+msgstr "Yazıcılar ve aygıtlar ({n})"
+
+msgid "Printing"
+msgstr "Yazdırılıyor"
+
+msgid "Program not found"
+msgstr "Program bulunamadı"
+
+msgid "Properties"
+msgstr "Özellikler"
+
+msgid "Properties of {name}"
+msgstr "{name} özellikleri"
+
+msgid "Quick format"
+msgstr "Hızlı biçimlendirme"
+
+msgid "Quick test"
+msgstr "Hızlı sınama"
+
+msgid "Quick test: from a few seconds to 2 minutes. Full test: from several minutes to several hours. You can keep using the computer."
+msgstr "Hızlı sınama: birkaç saniyeden 2 dakikaya. Tam sınama: birkaç dakikadan birkaç saate. Bilgisayarı kullanmaya devam edebilirsiniz."
+
+msgid "Read through the USB enclosure"
+msgstr "USB kutusu üzerinden oku"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "SMART okumak için root hakları gerekir ve pkexec (grafik yetki yükseltme) bu sistemde bulunamadı."
+
+msgid "Reading SMART timed out."
+msgstr "SMART okuma zaman aşımına uğradı."
+
+msgid "Reading…"
+msgstr "Okunuyor…"
+
+msgid "Reads every sector of the disk without writing anything. Each square is a group of sectors."
+msgstr "Hiçbir şey yazmadan diskin her sektörünü okur. Her kare bir sektör grubunu gösterir."
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Refresh"
+msgstr "Yenile"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "Boş alanı göstermek için parolayı hatırla (KWallet)"
+
+msgid "Remount failed"
+msgstr "Yeniden bağlama başarısız"
+
+msgid "Removable Disk"
+msgstr "Çıkarılabilir Disk"
+
+msgid "Removable disk"
+msgstr "Çıkarılabilir disk"
+
+msgid "Remove from list"
+msgstr "Listeden kaldır"
+
+msgid "Remove this location"
+msgstr "Bu konumu kaldır"
+
+msgid "Rename"
+msgstr "Yeniden adlandır"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "Bu biçim ({fstype}) için yeniden adlandırma desteklenmiyor."
+
+msgid "Run a quick test"
+msgstr "Hızlı sınama başlat"
+
+msgid "SMART status…"
+msgstr "SMART durumu…"
+
+msgid "SMART unavailable"
+msgstr "SMART kullanılamıyor"
+
+msgid "Safely remove"
+msgstr "Güvenle kaldır"
+
+msgid "Scan complete: no problem found."
+msgstr "Tarama tamamlandı: sorun bulunmadı."
+
+msgid "Scan complete: some sectors are slow."
+msgstr "Tarama tamamlandı: bazı sektörler yavaş."
+
+msgid "Scan complete: {n} damaged sectors."
+msgstr "Tarama tamamlandı: {n} hasarlı sektör."
+
+msgid "Scan stopped."
+msgstr "Tarama durduruldu."
+
+msgid "Scanned"
+msgstr "Tarandı"
+
+msgid "Scanner"
+msgstr "Tarayıcı"
+
+msgid "Searching…"
+msgstr "Aranıyor…"
+
+msgid "Serial number"
+msgstr "Seri numarası"
+
+msgid "Server address:"
+msgstr "Sunucu adresi:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "Sunucuya ulaşılamıyor. Adresi ve sunucunun açık olduğunu denetleyin."
+
+msgid "Share name (required):"
+msgstr "Paylaşım adı (gerekli):"
+
+msgid "Shares found:"
+msgstr "Bulunan paylaşımlar:"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Signs of wear"
+msgstr "Yıpranma belirtileri"
+
+msgid "Signs of wear – see Properties"
+msgstr "Yıpranma belirtileri – Özellikler'e bakın"
+
+msgid "Slow"
+msgstr "Yavaş"
+
+msgid "Speed"
+msgstr "Hız"
+
+msgid "Start the scan"
+msgstr "Taramayı başlat"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Status:"
+msgstr "Durum:"
+
+msgid "Stop"
+msgstr "Durdur"
+
+msgid "Surface"
+msgstr "Yüzey"
+
+msgid "Surface scan"
+msgstr "Yüzey taraması"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System Settings"
+msgstr "Sistem ayarları"
+
+msgid "System information"
+msgstr "Sistem bilgileri"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+msgid "The USB enclosure of this disk does not pass on its health information."
+msgstr "Bu diskin USB kutusu sağlık bilgisini iletmiyor."
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "Disk yeniden bağlanamadı:\n{detail}\n\nÇıkarıp yeniden takın."
+
+msgid "The disk is near the end of its expected life."
+msgstr "Disk beklenen ömrünün sonuna yaklaşıyor."
+
+msgid "The disk is still finishing the previous test. Try again in a minute."
+msgstr "Disk önceki sınamayı hâlâ bitiriyor. Bir dakika sonra yeniden deneyin."
+
+msgid "The disk is too hot."
+msgstr "Disk çok sıcak."
+
+msgid "The disk reports a serious fault."
+msgstr "Disk ciddi bir arıza bildiriyor."
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "Kesin parola, ilk açılışta Dolphin tarafından istenir; ondan hatırlamasını isteyebilirsiniz."
+
+msgid "The last self-test failed."
+msgstr "Son öz sınama başarısız oldu."
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "Ad boş veya izin verilmeyen bir karakter içeriyor."
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "Ad bu biçim için çok uzun (en fazla {max} karakter)."
+
+msgid "The pkexec command was not found."
+msgstr "pkexec komutu bulunamadı."
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "“{name}” programı bu bilgisayarda yüklü değil."
+
+msgid "The search failed."
+msgstr "Arama başarısız oldu."
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "Sunucu adresi boş veya izin verilmeyen bir karakter içeriyor."
+
+msgid "The server is not responding (timed out)."
+msgstr "Sunucu yanıt vermiyor (zaman aşımı)."
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "Paylaşım adı boş veya izin verilmeyen bir karakter içeriyor."
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "smartctl komutu bulunamadı.\n\nBu özelliği etkinleştirmek için smartmontools paketini yükleyin."
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "smbclient programı yüklü değil (“samba” paketi). Paylaşım adını elle yazın veya ekledikten sonra “Aç” düğmesini kullanın."
+
+msgid "The spare area is used up."
+msgstr "Yedek alan tükendi."
+
+msgid "The test could not be started."
+msgstr "Sınama başlatılamadı."
+
+msgid "The udisksctl command was not found on this system."
+msgstr "udisksctl komutu bu sistemde bulunamadı."
+
+msgid "The username contains a forbidden character."
+msgstr "Kullanıcı adı izin verilmeyen bir karakter içeriyor."
+
+msgid "The username is required to remember the password."
+msgstr "Parolayı hatırlamak için kullanıcı adı gerekli."
+
+msgid "The username is required."
+msgstr "Kullanıcı adı gerekli."
+
+msgid "The volume could not be unmounted. Close the files and windows that use it, then try again."
+msgstr "Birim ayrılamadı. Onu kullanan dosyaları ve pencereleri kapatıp yeniden deneyin."
+
+msgid "This PC"
+msgstr "Bu bilgisayar"
+
+msgid "This disk does not report its health (usual for USB disks, memory cards and virtual disks)."
+msgstr "Bu disk sağlık durumunu bildirmiyor (USB diskler, bellek kartları ve sanal diskler için olağandır)."
+
+msgid "This location already exists in the list."
+msgstr "Bu konum listede zaten var."
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "Bu yazılım Microsoft Corporation ile bağlantılı değildir ve onun tarafından onaylanmamıştır. Windows, Microsoft Corporation'ın ticari markasıdır."
+
+msgid "Time left"
+msgstr "Kalan süre"
+
+msgid "Touchpad"
+msgstr "Dokunmatik yüzey"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "Type the password to be able to remember it."
+msgstr "Parolayı hatırlayabilmek için parolayı yazın."
+
+msgid "Type:"
+msgstr "Tür:"
+
+msgid "Unexpected shutdowns"
+msgstr "Beklenmeyen kapanmalar"
+
+msgid "Unmounting the disk failed."
+msgstr "Diskin bağlantısı kesilemedi."
+
+msgid "Unmounting {label} timed out."
+msgstr "{label} bağlantısının kesilmesi zaman aşımına uğradı."
+
+msgid "Used space"
+msgstr "Kullanılan alan"
+
+msgid "Used: {size}"
+msgstr "Kullanılan: {size}"
+
+msgid "Username (required):"
+msgstr "Kullanıcı adı (gerekli):"
+
+msgid "Version {version} of This PC is available. To update, download it and run bash install.sh again."
+msgstr "Bu bilgisayar {version} sürümü kullanılabilir. Güncellemek için indirip bash install.sh komutunu yeniden çalıştırın."
+
+msgid "Version {version} · Plasma version"
+msgstr "Sürüm {version} · Plasma sürümü"
+
+msgid "Videos"
+msgstr "Videolar"
+
+msgid "View"
+msgstr "Görüntüle"
+
+msgid "Volume name"
+msgstr "Birim adı"
+
+msgid "Wear"
+msgstr "Yıpranma"
+
+msgid "Windows, Mac and Linux, files of any size. Best for USB sticks and external disks."
+msgstr "Windows, Mac ve Linux, her boyutta dosya. USB bellekler ve harici diskler için ideal."
+
+msgid "Works everywhere (TV, car radio, old devices), but no file larger than 4 GB."
+msgstr "Her yerde çalışır (TV, araç radyosu, eski aygıtlar), ancak 4 GB'tan büyük dosya olamaz."
+
+msgid "Writes zeros over the whole disk: can take hours, but the old data can no longer be recovered."
+msgstr "Tüm diski sıfırlarla doldurur: saatler sürebilir, ancak eski veriler artık kurtarılamaz."
+
+msgid "Yellow"
+msgstr "Sarı"
+
+msgid "Your administrator password is asked to read the disk. You can keep working; the disk will be a little slower."
+msgstr "Diski okumak için yönetici parolanız istenir. Çalışmaya devam edebilirsiniz; disk biraz yavaşlar."
+
+msgid "filled in from the list, or type it"
+msgstr "listeden doldurulur veya elle yazılır"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus bulunamadı veya zaman aşımına uğradı."
+
+msgid "only for “List”, never saved"
+msgstr "yalnızca “Listele” için, hiçbir zaman kaydedilmez"
+
+msgid "unknown error"
+msgstr "bilinmeyen hata"
+
+msgid "{free} free of {total}"
+msgstr "{total} içinden {free} boş"
+
+msgid "{h} h (about {d} days)"
+msgstr "{h} sa (yaklaşık {d} gün)"
+
+msgid "{h} h {m} min"
+msgstr "{h} sa {m} dk"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} bağlantısı kesildi ancak kapatılamadı:\n{detail}\n\nYine de çıkarabilirsiniz."
+
+msgid "{m} min {s} s"
+msgstr "{m} dk {s} sn"
+
+msgid "{n} item(s)"
+msgstr "{n} öğe"
+
+msgid "{n} sectors"
+msgstr "{n} sektör"
+
+msgid "{share} on {host}"
+msgstr "{host} üzerinde {share}"
+
+msgid "{test} complete: failed. Back up your files."
+msgstr "{test} tamamlandı: başarısız. Dosyalarınızı yedekleyin."
+
+msgid "{test} complete: passed."
+msgstr "{test} tamamlandı: başarılı."
+
+msgid "{test} in progress…"
+msgstr "{test} sürüyor…"
+
+msgid "{test} stopped."
+msgstr "{test} durduruldu."
+
+msgid "{t} °C (warning at {w} °C)"
+msgstr "{t} °C ({w} °C'de uyarı)"
+
+msgid "{v} MB/s"
+msgstr "{v} MB/sn"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "“{name}” yanıt vermiyor. Açık ve ağa bağlı olduğunu denetleyin."
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "Open items with a single click"
+msgstr "Öğeleri tek tıklamayla aç"
+
+msgid "Applies to all of Plasma: Dolphin, the desktop and This PC."
+msgstr "Tüm Plasma için geçerlidir: Dolphin, masaüstü ve Bu Bilgisayar."
+
+msgid "Free space alert"
+msgstr "Boş alan uyarısı"
+
+msgid "{n} %"
+msgstr "%{n}"
+
+msgid "The drive gauge turns red when the free space falls below this level."
+msgstr "Boş alan bu seviyenin altına düştüğünde sürücü göstergesi kırmızıya döner."
+
+msgid "Keeping 10 to 20 % free is recommended, especially for SSDs."
+msgstr "Özellikle SSD'lerde %10 ile %20 arası boş alan bırakılması önerilir."
+
+msgid "About Fenestra This PC"
+msgstr "Fenestra This PC hakkında"
+
+msgid "Version {version}"
+msgstr "Sürüm {version}"
+
+msgid "Could not lock {label}:\n{detail}"
+msgstr "{label} kilitlenemedi:\n{detail}"
+
+msgid "Lifetime remaining"
+msgstr "Kalan ömür"
+
+msgid "Manufacturer's estimate. At 0 %, the disk has reached its expected lifespan."
+msgstr "Üretici tahmini. %0'da disk beklenen ömrüne ulaşmıştır."
+
+msgid "More"
+msgstr "Diğer"
+
+msgid "Compact toolbar (icons only)"
+msgstr "Kompakt araç çubuğu (yalnızca simgeler)"
+
+msgid "Same commands as the full toolbar, shown as icons. Adding a network location and choosing which sections to show are in the “…” menu."
+msgstr "Tam araç çubuğuyla aynı komutlar, simge olarak gösterilir. Ağ konumu ekleme ve gösterilecek bölümlerin seçimi “…” menüsündedir."
+
+msgid "Same commands as the full toolbar, shown as icons. Choosing which sections to show is in the “…” menu."
+msgstr "Tam araç çubuğuyla aynı komutlar, simge olarak gösterilir. Gösterilecek bölümlerin seçimi “…” menüsündedir."
+
+msgid "Low ink level: {colors}"
+msgstr "Düşük seviye: {colors}"
+
+msgid "Search in Discover"
+msgstr "Discover'da ara"
+
+msgid "PyQt6 is missing"
+msgstr "PyQt6 eksik"
+
+msgid "Install PyQt6"
+msgstr "PyQt6'yı yükle"
+
+msgid "Installing PyQt6…"
+msgstr "PyQt6 yükleniyor…"
+
+msgid "Please wait…"
+msgstr "Lütfen bekleyin…"
+
+msgid "PyQt6 could not be installed."
+msgstr "PyQt6 yüklenemedi."
+
+msgid "PyQt6 is installed"
+msgstr "PyQt6 yüklendi"
+
+msgid "No PyQt6 package was found for this system. Install the PyQt6 package for Python 3 with your package manager."
+msgstr "Bu sistem için PyQt6 paketi bulunamadı. Python 3 için PyQt6 paketini paket yöneticinizle yükleyin."
+
+msgid "IP address"
+msgstr "IP adresi"

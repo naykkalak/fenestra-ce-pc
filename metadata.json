@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "naykkalak"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A \"This PC\" window for KDE Plasma 6: drives, network locations, printers and devices. Part of the Fenestra series.",
+        "EnabledByDefault": true,
+        "Icon": "computer",
+        "Id": "org.fenestra.cepc",
+        "License": "GPL-3.0+",
+        "Name": "Fenestra This PC",
+        "Version": "2.1",
+        "Website": "https://github.com/naykkalak/fenestra-ce-pc"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

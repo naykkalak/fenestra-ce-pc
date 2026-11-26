@@ -1,0 +1,862 @@
+# Fenestra This PC: "zh_TW" translation
+# Copyright (C) naykkalak (2026) for Fenestra This PC
+# SPDX-License-Identifier: GPL-3.0-or-later
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_TW\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10、NAS 名稱或 smb://..."
+
+msgid "A few seconds. The old data is not overwritten."
+msgstr "只需幾秒鐘。舊資料不會被覆寫。"
+
+msgid "About"
+msgstr "關於"
+
+msgid "About This PC"
+msgstr "關於本機"
+
+msgid "Add a network location"
+msgstr "新增網路位置"
+
+msgid "All the data on “{name}” will be permanently erased."
+msgstr "「{name}」上的所有資料將被永久刪除。"
+
+msgid "Analyze space…"
+msgstr "分析空間…"
+
+msgid "Author: {author}"
+msgstr "作者: {author}"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Available spare"
+msgstr "可用備用空間"
+
+msgid "Back up your files now and plan to replace this disk. A file stored on a damaged sector can be lost."
+msgstr "請立即備份檔案，並準備更換此磁碟。位於損壞磁區上的檔案可能會遺失。"
+
+msgid "Bad sectors"
+msgstr "壞軌"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Brand"
+msgstr "品牌"
+
+msgid "Built-in"
+msgstr "內建"
+
+msgid "CD/DVD Drive"
+msgstr "CD/DVD 光碟機"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot add"
+msgstr "無法新增"
+
+msgid "Cannot eject"
+msgstr "無法退出"
+
+msgid "Cannot open"
+msgstr "無法開啟"
+
+msgid "Cannot remove"
+msgstr "無法移除"
+
+msgid "Cannot rename"
+msgstr "無法重新命名"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Capacity: {size}"
+msgstr "容量: {size}"
+
+msgid "Check for a new version once a week"
+msgstr "每週檢查一次新版本"
+
+msgid "Choose a share…"
+msgstr "選擇共用…"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "命令列圖示: Fluent UI System Icons,© Microsoft Corporation,MIT 授權。"
+
+msgid "Connected via USB"
+msgstr "已透過 USB 連線"
+
+msgid "Could not save the list:\n{error}"
+msgstr "無法儲存清單:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "無法卸載磁碟:\n{detail}\n\n請關閉使用此磁碟機的視窗和應用程式,然後再試一次。"
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "無法卸載 {label}:\n{detail}\n\n請檢查此磁碟機上是否仍有開啟的檔案。"
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Damaged"
+msgstr "已損壞"
+
+msgid "Data errors"
+msgstr "資料錯誤"
+
+msgid "Data errors have been detected."
+msgstr "偵測到資料錯誤。"
+
+msgid "Data read"
+msgstr "已讀取資料"
+
+msgid "Data written"
+msgstr "已寫入資料"
+
+msgid "Default"
+msgstr "預設"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Detailed report…"
+msgstr "詳細報告…"
+
+msgid "Details"
+msgstr "詳細資訊"
+
+msgid "Detected automatically on the network"
+msgstr "已在網路上自動偵測到"
+
+msgid "Device"
+msgstr "裝置"
+
+msgid "Device:"
+msgstr "裝置:"
+
+msgid "Devices and drives ({n})"
+msgstr "裝置和磁碟機 ({n})"
+
+msgid "Disk failing – back up your files"
+msgstr "磁碟故障 – 請備份檔案"
+
+msgid "Disk health"
+msgstr "磁碟健康"
+
+msgid "Disk self-test"
+msgstr "磁碟自我檢測"
+
+msgid "Display name (optional):"
+msgstr "顯示名稱(選填):"
+
+msgid "Documents"
+msgstr "文件"
+
+msgid "Downloads"
+msgstr "下載"
+
+msgid "Eject"
+msgstr "退出"
+
+msgid "File system"
+msgstr "檔案系統"
+
+msgid "File system:"
+msgstr "檔案系統:"
+
+msgid "Firmware"
+msgstr "韌體"
+
+msgid "Folders ({n})"
+msgstr "資料夾 ({n})"
+
+msgid "For a disk used mainly with Windows."
+msgstr "適用於主要在 Windows 下使用的磁碟。"
+
+msgid "For a disk used only with Linux."
+msgstr "適用於只在 Linux 下使用的磁碟。"
+
+msgid "Format"
+msgstr "格式化"
+
+msgid "Format cancelled: the volume must be formatted again before use."
+msgstr "已取消格式化：使用前必須重新格式化該磁碟區。"
+
+msgid "Format complete."
+msgstr "格式化完成。"
+
+msgid "Format {name}"
+msgstr "格式化 {name}"
+
+msgid "Formatting failed."
+msgstr "格式化失敗。"
+
+msgid "Formatting options"
+msgstr "格式化選項"
+
+msgid "Formatting…"
+msgstr "正在格式化…"
+
+msgid "Format…"
+msgstr "格式化…"
+
+msgid "Free space"
+msgstr "可用空間"
+
+msgid "Free: {size}"
+msgstr "可用: {size}"
+
+msgid "Full test"
+msgstr "完整測試"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GPL-3.0 only"
+msgstr "僅 GPL-3.0"
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 或更新版本"
+
+msgid "Game controller"
+msgstr "遊戲控制器"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Good condition"
+msgstr "狀態良好"
+
+msgid "Graphics tablet"
+msgstr "繪圖板"
+
+msgid "Gray"
+msgstr "灰色"
+
+msgid "Hard disk drive"
+msgstr "傳統硬碟"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Health information not available"
+msgstr "沒有健康資訊"
+
+msgid "Hide"
+msgstr "隱藏"
+
+msgid "Incorrect username or password."
+msgstr "使用者名稱或密碼不正確。"
+
+msgid "Information"
+msgstr "資訊"
+
+msgid "Ink levels"
+msgstr "墨水量"
+
+msgid "Insufficient rights"
+msgstr "權限不足"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet 無法儲存密碼:將不會顯示空間條。"
+
+msgid "Keep an eye on this disk: run the scan again later to compare."
+msgstr "請留意此磁碟：稍後再次掃描以便比較。"
+
+msgid "Keyboard"
+msgstr "鍵盤"
+
+msgid "Last self-test: passed."
+msgstr "上次自我檢測：通過。"
+
+msgid "License: {license}"
+msgstr "授權: {license}"
+
+msgid "Lifetime used"
+msgstr "已用壽命"
+
+msgid "Light cyan"
+msgstr "淡青色"
+
+msgid "Light magenta"
+msgstr "淡洋紅"
+
+msgid "List"
+msgstr "列出"
+
+msgid "Local Disk"
+msgstr "本機磁碟"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Location unavailable"
+msgstr "位置無法使用"
+
+msgid "Magenta"
+msgstr "洋紅"
+
+msgid "Manufacturer's estimate. At 100 %, the disk has reached its expected lifespan."
+msgstr "廠商估計值。達到 100 % 時，磁碟到達預期壽命。"
+
+msgid "Matte black"
+msgstr "霧面黑"
+
+msgid "Model"
+msgstr "型號"
+
+msgid "Mount point"
+msgstr "掛載點"
+
+msgid "Mount point:"
+msgstr "掛載點:"
+
+msgid "Mouse"
+msgstr "滑鼠"
+
+msgid "Music"
+msgstr "音樂"
+
+msgid "My NAS"
+msgstr "我的 NAS"
+
+msgid "Network"
+msgstr "網路"
+
+msgid "Network location"
+msgstr "網路位置"
+
+msgid "Network locations ({n})"
+msgstr "網路位置 ({n})"
+
+msgid "No disc"
+msgstr "無光碟"
+
+msgid "No information available."
+msgstr "沒有可用的資訊。"
+
+msgid "No share visible with these credentials."
+msgstr "使用這些認證看不到任何共用。"
+
+msgid "No sign of abnormal wear."
+msgstr "沒有異常磨損跡象。"
+
+msgid "None"
+msgstr "無"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Not available on this computer (missing tool: {tool})."
+msgstr "此電腦上無法使用（缺少工具：{tool}）。"
+
+msgid "Not connected"
+msgstr "未連線"
+
+msgid "Not read"
+msgstr "未讀取"
+
+msgid "Number of sectors"
+msgstr "磁區數"
+
+msgid "Offline"
+msgstr "離線"
+
+msgid "One square"
+msgstr "一個方塊"
+
+msgid "Open"
+msgstr "開啟"
+
+msgid "Open in Dolphin"
+msgstr "在 Dolphin 中開啟"
+
+msgid "Open with Dolphin"
+msgstr "以 Dolphin 開啟"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "屬於 Fenestra 系列,為 KDE Plasma 帶來 Windows 11 桌面的外觀。"
+
+msgid "Partial eject"
+msgstr "部分退出"
+
+msgid "Password not remembered"
+msgstr "未記住密碼"
+
+msgid "Password:"
+msgstr "密碼:"
+
+msgid "Photo black"
+msgstr "相片黑"
+
+msgid "Pictures"
+msgstr "圖片"
+
+msgid "Power cycles"
+msgstr "開機次數"
+
+msgid "Power-on time"
+msgstr "運作時間"
+
+msgid "Printer"
+msgstr "印表機"
+
+msgid "Printers and devices ({n})"
+msgstr "印表機和裝置 ({n})"
+
+msgid "Printing"
+msgstr "列印中"
+
+msgid "Program not found"
+msgstr "找不到程式"
+
+msgid "Properties"
+msgstr "內容"
+
+msgid "Properties of {name}"
+msgstr "{name} 內容"
+
+msgid "Quick format"
+msgstr "快速格式化"
+
+msgid "Quick test"
+msgstr "快速測試"
+
+msgid "Quick test: from a few seconds to 2 minutes. Full test: from several minutes to several hours. You can keep using the computer."
+msgstr "快速測試：幾秒到 2 分鐘。完整測試：幾分鐘到數小時。期間可以繼續使用電腦。"
+
+msgid "Read through the USB enclosure"
+msgstr "透過 USB 外接盒讀取"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "讀取 SMART 需要 root 權限,而此系統上找不到 pkexec(圖形化提升權限)。"
+
+msgid "Reading SMART timed out."
+msgstr "讀取 SMART 逾時。"
+
+msgid "Reading…"
+msgstr "正在讀取…"
+
+msgid "Reads every sector of the disk without writing anything. Each square is a group of sectors."
+msgstr "讀取磁碟的每個磁區，不寫入任何內容。每個方塊代表一組磁區。"
+
+msgid "Ready"
+msgstr "就緒"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "記住密碼 (KWallet) 以顯示可用空間"
+
+msgid "Remount failed"
+msgstr "重新掛載失敗"
+
+msgid "Removable Disk"
+msgstr "卸除式磁碟"
+
+msgid "Removable disk"
+msgstr "卸除式磁碟"
+
+msgid "Remove from list"
+msgstr "從清單中移除"
+
+msgid "Remove this location"
+msgstr "移除此位置"
+
+msgid "Rename"
+msgstr "重新命名"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "此格式 ({fstype}) 不支援重新命名。"
+
+msgid "Run a quick test"
+msgstr "開始快速測試"
+
+msgid "SMART status…"
+msgstr "SMART 狀態…"
+
+msgid "SMART unavailable"
+msgstr "SMART 無法使用"
+
+msgid "Safely remove"
+msgstr "安全移除"
+
+msgid "Scan complete: no problem found."
+msgstr "掃描完成：未發現問題。"
+
+msgid "Scan complete: some sectors are slow."
+msgstr "掃描完成：部分磁區較慢。"
+
+msgid "Scan complete: {n} damaged sectors."
+msgstr "掃描完成：{n} 個損壞磁區。"
+
+msgid "Scan stopped."
+msgstr "掃描已停止。"
+
+msgid "Scanned"
+msgstr "已掃描"
+
+msgid "Scanner"
+msgstr "掃描器"
+
+msgid "Searching…"
+msgstr "搜尋中…"
+
+msgid "Serial number"
+msgstr "序號"
+
+msgid "Server address:"
+msgstr "伺服器位址:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "無法連線到伺服器。請檢查位址以及伺服器是否已開機。"
+
+msgid "Share name (required):"
+msgstr "共用名稱(必填):"
+
+msgid "Shares found:"
+msgstr "找到的共用:"
+
+msgid "Show"
+msgstr "顯示"
+
+msgid "Signs of wear"
+msgstr "磨損跡象"
+
+msgid "Signs of wear – see Properties"
+msgstr "有磨損跡象 – 請查看內容"
+
+msgid "Slow"
+msgstr "較慢"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Start the scan"
+msgstr "開始掃描"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "Status:"
+msgstr "狀態:"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Surface"
+msgstr "表面"
+
+msgid "Surface scan"
+msgstr "表面掃描"
+
+msgid "System"
+msgstr "系統"
+
+msgid "System Settings"
+msgstr "系統設定"
+
+msgid "System information"
+msgstr "系統資訊"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Temperature"
+msgstr "溫度"
+
+msgid "The USB enclosure of this disk does not pass on its health information."
+msgstr "此磁碟的 USB 外接盒不傳遞健康資訊。"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "無法重新掛載磁碟:\n{detail}\n\n請拔除後再重新插入。"
+
+msgid "The disk is near the end of its expected life."
+msgstr "磁碟即將達到預期壽命。"
+
+msgid "The disk is still finishing the previous test. Try again in a minute."
+msgstr "磁碟仍在結束上一次測試。請一分鐘後再試。"
+
+msgid "The disk is too hot."
+msgstr "磁碟溫度過高。"
+
+msgid "The disk reports a serious fault."
+msgstr "磁碟回報了嚴重故障。"
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "最終密碼由 Dolphin 在第一次開啟時詢問;您可以讓它記住密碼。"
+
+msgid "The last self-test failed."
+msgstr "上次自我檢測失敗。"
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "名稱為空,或包含不允許的字元。"
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "名稱對此格式而言太長(最多 {max} 個字元)。"
+
+msgid "The pkexec command was not found."
+msgstr "找不到 pkexec 指令。"
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "此電腦上未安裝程式「{name}」。"
+
+msgid "The search failed."
+msgstr "搜尋失敗。"
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "伺服器位址為空,或包含不允許的字元。"
+
+msgid "The server is not responding (timed out)."
+msgstr "伺服器沒有回應(逾時)。"
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "共用名稱為空,或包含不允許的字元。"
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "找不到 smartctl 指令。\n\n請安裝 smartmontools 套件以啟用此功能。"
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "未安裝 smbclient 程式(套件「samba」)。請手動輸入共用名稱,或在新增後使用「開啟」按鈕。"
+
+msgid "The spare area is used up."
+msgstr "備用空間已用盡。"
+
+msgid "The test could not be started."
+msgstr "無法啟動測試。"
+
+msgid "The udisksctl command was not found on this system."
+msgstr "在此系統上找不到 udisksctl 指令。"
+
+msgid "The username contains a forbidden character."
+msgstr "使用者名稱包含不允許的字元。"
+
+msgid "The username is required to remember the password."
+msgstr "記住密碼需要填寫使用者名稱。"
+
+msgid "The username is required."
+msgstr "必須填寫使用者名稱。"
+
+msgid "The volume could not be unmounted. Close the files and windows that use it, then try again."
+msgstr "無法卸載該磁碟區。請關閉正在使用它的檔案和視窗，然後再試一次。"
+
+msgid "This PC"
+msgstr "本機"
+
+msgid "This disk does not report its health (usual for USB disks, memory cards and virtual disks)."
+msgstr "此磁碟不回報健康狀態（USB 磁碟、記憶卡和虛擬磁碟通常如此）。"
+
+msgid "This location already exists in the list."
+msgstr "此位置已在清單中。"
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "本軟體與 Microsoft Corporation 無關,也未獲其認可。Windows 是 Microsoft Corporation 的商標。"
+
+msgid "Time left"
+msgstr "剩餘時間"
+
+msgid "Touchpad"
+msgstr "觸控板"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Type the password to be able to remember it."
+msgstr "請輸入密碼以便記住它。"
+
+msgid "Type:"
+msgstr "類型:"
+
+msgid "Unexpected shutdowns"
+msgstr "意外斷電"
+
+msgid "Unmounting the disk failed."
+msgstr "卸載磁碟失敗。"
+
+msgid "Unmounting {label} timed out."
+msgstr "卸載 {label} 逾時。"
+
+msgid "Used space"
+msgstr "已用空間"
+
+msgid "Used: {size}"
+msgstr "已使用: {size}"
+
+msgid "Username (required):"
+msgstr "使用者名稱(必填):"
+
+msgid "Version {version} of This PC is available. To update, download it and run bash install.sh again."
+msgstr "本機 {version} 版本已推出。若要更新，請下載後重新執行 bash install.sh。"
+
+msgid "Version {version} · Plasma version"
+msgstr "版本 {version} · Plasma 版"
+
+msgid "Videos"
+msgstr "影片"
+
+msgid "View"
+msgstr "檢視"
+
+msgid "Volume name"
+msgstr "磁碟區名稱"
+
+msgid "Wear"
+msgstr "磨損"
+
+msgid "Windows, Mac and Linux, files of any size. Best for USB sticks and external disks."
+msgstr "Windows、Mac 和 Linux 通用，檔案大小不限。最適合隨身碟和外接硬碟。"
+
+msgid "Works everywhere (TV, car radio, old devices), but no file larger than 4 GB."
+msgstr "幾乎所有裝置都能讀取（電視、車用音響、舊裝置），但單一檔案不能超過 4 GB。"
+
+msgid "Writes zeros over the whole disk: can take hours, but the old data can no longer be recovered."
+msgstr "以零填滿整個磁碟：可能需要數小時，但舊資料將無法復原。"
+
+msgid "Yellow"
+msgstr "黃色"
+
+msgid "Your administrator password is asked to read the disk. You can keep working; the disk will be a little slower."
+msgstr "讀取磁碟需要管理員密碼。你可以繼續工作；磁碟會稍慢一些。"
+
+msgid "filled in from the list, or type it"
+msgstr "從清單填入,或手動輸入"
+
+msgid "gdbus not found or timed out."
+msgstr "找不到 gdbus 或已逾時。"
+
+msgid "only for “List”, never saved"
+msgstr "僅用於「列出」,不會儲存"
+
+msgid "unknown error"
+msgstr "未知的錯誤"
+
+msgid "{free} free of {total}"
+msgstr "{total} 中有 {free} 可用"
+
+msgid "{h} h (about {d} days)"
+msgstr "{h} 小時（約 {d} 天）"
+
+msgid "{h} h {m} min"
+msgstr "{h} 小時 {m} 分"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} 已卸載,但無法關閉電源:\n{detail}\n\n您仍然可以直接拔除。"
+
+msgid "{m} min {s} s"
+msgstr "{m} 分 {s} 秒"
+
+msgid "{n} item(s)"
+msgstr "{n} 個項目"
+
+msgid "{n} sectors"
+msgstr "{n} 個磁區"
+
+msgid "{share} on {host}"
+msgstr "{host} 上的 {share}"
+
+msgid "{test} complete: failed. Back up your files."
+msgstr "{test}完成：未通過。請備份檔案。"
+
+msgid "{test} complete: passed."
+msgstr "{test}完成：通過。"
+
+msgid "{test} in progress…"
+msgstr "{test}進行中…"
+
+msgid "{test} stopped."
+msgstr "{test}已停止。"
+
+msgid "{t} °C (warning at {w} °C)"
+msgstr "{t} °C（警告溫度 {w} °C）"
+
+msgid "{v} MB/s"
+msgstr "{v} MB/s"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "「{name}」沒有回應。請確認它已開機並連線到網路。"
+
+msgid "Options"
+msgstr "選項"
+
+msgid "Open items with a single click"
+msgstr "按一下即可開啟項目"
+
+msgid "Applies to all of Plasma: Dolphin, the desktop and This PC."
+msgstr "套用至整個 Plasma：Dolphin、桌面與本機。"
+
+msgid "Free space alert"
+msgstr "可用空間警告"
+
+msgid "{n} %"
+msgstr "{n}%"
+
+msgid "The drive gauge turns red when the free space falls below this level."
+msgstr "可用空間低於此值時，磁碟量表會變成紅色。"
+
+msgid "Keeping 10 to 20 % free is recommended, especially for SSDs."
+msgstr "建議保留 10% 至 20% 的可用空間，尤其是 SSD。"
+
+msgid "About Fenestra This PC"
+msgstr "關於 Fenestra This PC"
+
+msgid "Version {version}"
+msgstr "版本 {version}"
+
+msgid "Could not lock {label}:\n{detail}"
+msgstr "無法鎖定 {label}：\n{detail}"
+
+msgid "Lifetime remaining"
+msgstr "剩餘壽命"
+
+msgid "Manufacturer's estimate. At 0 %, the disk has reached its expected lifespan."
+msgstr "製造商估計值。降至 0 % 時，磁碟已達到預期壽命。"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Compact toolbar (icons only)"
+msgstr "精簡工具列（僅圖示）"
+
+msgid "Same commands as the full toolbar, shown as icons. Adding a network location and choosing which sections to show are in the “…” menu."
+msgstr "與完整工具列相同的指令，以圖示顯示。新增網路位置和選擇顯示的區段位於「…」選單中。"
+
+msgid "Same commands as the full toolbar, shown as icons. Choosing which sections to show is in the “…” menu."
+msgstr "與完整工具列相同的指令，以圖示顯示。選擇顯示的區段位於「…」選單中。"
+
+msgid "Low ink level: {colors}"
+msgstr "墨水不足：{colors}"
+
+msgid "Search in Discover"
+msgstr "在 Discover 中搜尋"
+
+msgid "PyQt6 is missing"
+msgstr "缺少 PyQt6"
+
+msgid "Install PyQt6"
+msgstr "安裝 PyQt6"
+
+msgid "Installing PyQt6…"
+msgstr "正在安裝 PyQt6…"
+
+msgid "Please wait…"
+msgstr "請稍候…"
+
+msgid "PyQt6 could not be installed."
+msgstr "無法安裝 PyQt6。"
+
+msgid "PyQt6 is installed"
+msgstr "PyQt6 已安裝"
+
+msgid "No PyQt6 package was found for this system. Install the PyQt6 package for Python 3 with your package manager."
+msgstr "找不到適用於此系統的 PyQt6 套件。請使用您的套件管理員安裝適用於 Python 3 的 PyQt6 套件。"
+
+msgid "IP address"
+msgstr "IP 位址"

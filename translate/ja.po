@@ -1,0 +1,862 @@
+# Fenestra This PC: "ja" translation
+# Copyright (C) naykkalak (2026) for Fenestra This PC
+# SPDX-License-Identifier: GPL-3.0-or-later
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ja\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10、NAS 名、または smb://..."
+
+msgid "A few seconds. The old data is not overwritten."
+msgstr "数秒で終わります。古いデータは上書きされません。"
+
+msgid "About"
+msgstr "バージョン情報"
+
+msgid "About This PC"
+msgstr "PC について"
+
+msgid "Add a network location"
+msgstr "ネットワークの場所を追加"
+
+msgid "All the data on “{name}” will be permanently erased."
+msgstr "「{name}」のすべてのデータが完全に消去されます。"
+
+msgid "Analyze space…"
+msgstr "使用領域を分析…"
+
+msgid "Author: {author}"
+msgstr "作者: {author}"
+
+msgid "Available"
+msgstr "利用可能"
+
+msgid "Available spare"
+msgstr "利用可能な予備領域"
+
+msgid "Back up your files now and plan to replace this disk. A file stored on a damaged sector can be lost."
+msgstr "今すぐファイルをバックアップし、このディスクの交換を検討してください。損傷したセクターにあるファイルは失われるおそれがあります。"
+
+msgid "Bad sectors"
+msgstr "不良セクター"
+
+msgid "Black"
+msgstr "ブラック"
+
+msgid "Brand"
+msgstr "メーカー"
+
+msgid "Built-in"
+msgstr "内蔵"
+
+msgid "CD/DVD Drive"
+msgstr "CD/DVD ドライブ"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cannot add"
+msgstr "追加できません"
+
+msgid "Cannot eject"
+msgstr "取り出せません"
+
+msgid "Cannot open"
+msgstr "開けません"
+
+msgid "Cannot remove"
+msgstr "削除できません"
+
+msgid "Cannot rename"
+msgstr "名前を変更できません"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Capacity: {size}"
+msgstr "容量: {size}"
+
+msgid "Check for a new version once a week"
+msgstr "週に 1 回新しいバージョンを確認する"
+
+msgid "Choose a share…"
+msgstr "共有を選択…"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "コマンド バーのアイコン: Fluent UI System Icons、© Microsoft Corporation、MIT ライセンス。"
+
+msgid "Connected via USB"
+msgstr "USB 接続"
+
+msgid "Could not save the list:\n{error}"
+msgstr "一覧を保存できませんでした:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "ディスクのマウントを解除できませんでした:\n{detail}\n\nこのドライブを使用しているウィンドウとアプリケーションを閉じて、もう一度お試しください。"
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "{label} のマウントを解除できませんでした:\n{detail}\n\nこのドライブで開いているファイルがないか確認してください。"
+
+msgid "Cyan"
+msgstr "シアン"
+
+msgid "Damaged"
+msgstr "損傷"
+
+msgid "Data errors"
+msgstr "データエラー"
+
+msgid "Data errors have been detected."
+msgstr "データエラーが検出されました。"
+
+msgid "Data read"
+msgstr "読み取りデータ量"
+
+msgid "Data written"
+msgstr "書き込みデータ量"
+
+msgid "Default"
+msgstr "既定"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "Detailed report…"
+msgstr "詳細レポート…"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Detected automatically on the network"
+msgstr "ネットワーク上で自動検出"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Device:"
+msgstr "デバイス:"
+
+msgid "Devices and drives ({n})"
+msgstr "デバイスとドライブ ({n})"
+
+msgid "Disk failing – back up your files"
+msgstr "ディスクの故障 – ファイルをバックアップしてください"
+
+msgid "Disk health"
+msgstr "ディスクの状態"
+
+msgid "Disk self-test"
+msgstr "ディスクのセルフテスト"
+
+msgid "Display name (optional):"
+msgstr "表示名 (省略可):"
+
+msgid "Documents"
+msgstr "ドキュメント"
+
+msgid "Downloads"
+msgstr "ダウンロード"
+
+msgid "Eject"
+msgstr "取り出し"
+
+msgid "File system"
+msgstr "ファイルシステム"
+
+msgid "File system:"
+msgstr "ファイル システム:"
+
+msgid "Firmware"
+msgstr "ファームウェア"
+
+msgid "Folders ({n})"
+msgstr "フォルダー ({n})"
+
+msgid "For a disk used mainly with Windows."
+msgstr "主に Windows で使うディスク向け。"
+
+msgid "For a disk used only with Linux."
+msgstr "Linux だけで使うディスク向け。"
+
+msgid "Format"
+msgstr "フォーマット"
+
+msgid "Format cancelled: the volume must be formatted again before use."
+msgstr "フォーマットを中止しました。使用する前にボリュームを再フォーマットしてください。"
+
+msgid "Format complete."
+msgstr "フォーマットが完了しました。"
+
+msgid "Format {name}"
+msgstr "{name} のフォーマット"
+
+msgid "Formatting failed."
+msgstr "フォーマットに失敗しました。"
+
+msgid "Formatting options"
+msgstr "フォーマット オプション"
+
+msgid "Formatting…"
+msgstr "フォーマット中…"
+
+msgid "Format…"
+msgstr "フォーマット…"
+
+msgid "Free space"
+msgstr "空き領域"
+
+msgid "Free: {size}"
+msgstr "空き: {size}"
+
+msgid "Full test"
+msgstr "完全テスト"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GPL-3.0 only"
+msgstr "GPL-3.0 のみ"
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 以降"
+
+msgid "Game controller"
+msgstr "ゲームコントローラー"
+
+msgid "General"
+msgstr "全般"
+
+msgid "Good condition"
+msgstr "正常"
+
+msgid "Graphics tablet"
+msgstr "ペンタブレット"
+
+msgid "Gray"
+msgstr "グレー"
+
+msgid "Hard disk drive"
+msgstr "ハードディスク"
+
+msgid "Health"
+msgstr "状態"
+
+msgid "Health information not available"
+msgstr "状態の情報はありません"
+
+msgid "Hide"
+msgstr "隠す"
+
+msgid "Incorrect username or password."
+msgstr "ユーザー名またはパスワードが正しくありません。"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Ink levels"
+msgstr "インク残量"
+
+msgid "Insufficient rights"
+msgstr "権限が不足しています"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet がパスワードを保存できませんでした。空き容量のバーは表示されません。"
+
+msgid "Keep an eye on this disk: run the scan again later to compare."
+msgstr "このディスクに注意してください。後でもう一度スキャンして比較してください。"
+
+msgid "Keyboard"
+msgstr "キーボード"
+
+msgid "Last self-test: passed."
+msgstr "前回のセルフテスト: 合格。"
+
+msgid "License: {license}"
+msgstr "ライセンス: {license}"
+
+msgid "Lifetime used"
+msgstr "使用済み寿命"
+
+msgid "Light cyan"
+msgstr "ライトシアン"
+
+msgid "Light magenta"
+msgstr "ライトマゼンタ"
+
+msgid "List"
+msgstr "一覧表示"
+
+msgid "Local Disk"
+msgstr "ローカル ディスク"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Location unavailable"
+msgstr "場所を利用できません"
+
+msgid "Magenta"
+msgstr "マゼンタ"
+
+msgid "Manufacturer's estimate. At 100 %, the disk has reached its expected lifespan."
+msgstr "メーカーの推定値です。100 % になると、ディスクは想定寿命に達します。"
+
+msgid "Matte black"
+msgstr "マットブラック"
+
+msgid "Model"
+msgstr "モデル"
+
+msgid "Mount point"
+msgstr "マウントポイント"
+
+msgid "Mount point:"
+msgstr "マウント ポイント:"
+
+msgid "Mouse"
+msgstr "マウス"
+
+msgid "Music"
+msgstr "ミュージック"
+
+msgid "My NAS"
+msgstr "マイ NAS"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Network location"
+msgstr "ネットワークの場所"
+
+msgid "Network locations ({n})"
+msgstr "ネットワークの場所 ({n})"
+
+msgid "No disc"
+msgstr "ディスクなし"
+
+msgid "No information available."
+msgstr "利用できる情報がありません。"
+
+msgid "No share visible with these credentials."
+msgstr "この資格情報では表示できる共有がありません。"
+
+msgid "No sign of abnormal wear."
+msgstr "異常な摩耗の兆候はありません。"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Not available on this computer (missing tool: {tool})."
+msgstr "このコンピューターでは使用できません(不足しているツール: {tool})。"
+
+msgid "Not connected"
+msgstr "未接続"
+
+msgid "Not read"
+msgstr "未読み取り"
+
+msgid "Number of sectors"
+msgstr "セクター数"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "One square"
+msgstr "1 マス"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "Open in Dolphin"
+msgstr "Dolphin で開く"
+
+msgid "Open with Dolphin"
+msgstr "Dolphin で開く"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "KDE Plasma に Windows 11 のデスクトップの外観を与える Fenestra シリーズの一部です。"
+
+msgid "Partial eject"
+msgstr "一部のみ取り出しました"
+
+msgid "Password not remembered"
+msgstr "パスワードを記憶できませんでした"
+
+msgid "Password:"
+msgstr "パスワード:"
+
+msgid "Photo black"
+msgstr "フォトブラック"
+
+msgid "Pictures"
+msgstr "ピクチャ"
+
+msgid "Power cycles"
+msgstr "電源投入回数"
+
+msgid "Power-on time"
+msgstr "稼働時間"
+
+msgid "Printer"
+msgstr "プリンター"
+
+msgid "Printers and devices ({n})"
+msgstr "プリンターとデバイス ({n})"
+
+msgid "Printing"
+msgstr "印刷中"
+
+msgid "Program not found"
+msgstr "プログラムが見つかりません"
+
+msgid "Properties"
+msgstr "プロパティ"
+
+msgid "Properties of {name}"
+msgstr "{name} のプロパティ"
+
+msgid "Quick format"
+msgstr "クイックフォーマット"
+
+msgid "Quick test"
+msgstr "クイックテスト"
+
+msgid "Quick test: from a few seconds to 2 minutes. Full test: from several minutes to several hours. You can keep using the computer."
+msgstr "クイックテスト: 数秒～2 分。完全テスト: 数分～数時間。その間もコンピューターを使えます。"
+
+msgid "Read through the USB enclosure"
+msgstr "USB ケース経由で読み取る"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "SMART の読み取りには root 権限が必要ですが、このシステムでは pkexec (グラフィカルな権限昇格) が見つかりません。"
+
+msgid "Reading SMART timed out."
+msgstr "SMART の読み取りがタイムアウトしました。"
+
+msgid "Reading…"
+msgstr "読み取り中…"
+
+msgid "Reads every sector of the disk without writing anything. Each square is a group of sectors."
+msgstr "何も書き込まずにディスクの全セクターを読み取ります。1 マスがセクターのまとまりを表します。"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Refresh"
+msgstr "最新の情報に更新"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "空き容量を表示するためにパスワードを記憶する (KWallet)"
+
+msgid "Remount failed"
+msgstr "再マウントに失敗しました"
+
+msgid "Removable Disk"
+msgstr "リムーバブル ディスク"
+
+msgid "Removable disk"
+msgstr "リムーバブル ディスク"
+
+msgid "Remove from list"
+msgstr "一覧から削除"
+
+msgid "Remove this location"
+msgstr "この場所を削除"
+
+msgid "Rename"
+msgstr "名前の変更"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "この形式 ({fstype}) では名前の変更はサポートされていません。"
+
+msgid "Run a quick test"
+msgstr "クイックテストを開始"
+
+msgid "SMART status…"
+msgstr "SMART の状態…"
+
+msgid "SMART unavailable"
+msgstr "SMART を利用できません"
+
+msgid "Safely remove"
+msgstr "安全に取り外す"
+
+msgid "Scan complete: no problem found."
+msgstr "スキャン完了: 問題はありません。"
+
+msgid "Scan complete: some sectors are slow."
+msgstr "スキャン完了: 一部のセクターが遅くなっています。"
+
+msgid "Scan complete: {n} damaged sectors."
+msgstr "スキャン完了: 損傷セクター {n} 個。"
+
+msgid "Scan stopped."
+msgstr "スキャンを中止しました。"
+
+msgid "Scanned"
+msgstr "スキャン済み"
+
+msgid "Scanner"
+msgstr "スキャナー"
+
+msgid "Searching…"
+msgstr "検索中…"
+
+msgid "Serial number"
+msgstr "シリアル番号"
+
+msgid "Server address:"
+msgstr "サーバーのアドレス:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "サーバーに接続できません。アドレスと、サーバーの電源が入っていることを確認してください。"
+
+msgid "Share name (required):"
+msgstr "共有名 (必須):"
+
+msgid "Shares found:"
+msgstr "見つかった共有:"
+
+msgid "Show"
+msgstr "表示"
+
+msgid "Signs of wear"
+msgstr "摩耗の兆候"
+
+msgid "Signs of wear – see Properties"
+msgstr "劣化の兆候 – プロパティを確認"
+
+msgid "Slow"
+msgstr "低速"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Start the scan"
+msgstr "スキャンを開始"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "Status:"
+msgstr "状態:"
+
+msgid "Stop"
+msgstr "中止"
+
+msgid "Surface"
+msgstr "表面"
+
+msgid "Surface scan"
+msgstr "表面スキャン"
+
+msgid "System"
+msgstr "システム"
+
+msgid "System Settings"
+msgstr "システム設定"
+
+msgid "System information"
+msgstr "システム情報"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "The USB enclosure of this disk does not pass on its health information."
+msgstr "このディスクの USB ケースは状態の情報を伝えません。"
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "ディスクを再マウントできませんでした:\n{detail}\n\n一度取り外して、もう一度接続してください。"
+
+msgid "The disk is near the end of its expected life."
+msgstr "ディスクが想定寿命の終わりに近づいています。"
+
+msgid "The disk is still finishing the previous test. Try again in a minute."
+msgstr "ディスクはまだ前回のテストを終えているところです。1 分後にもう一度お試しください。"
+
+msgid "The disk is too hot."
+msgstr "ディスクが熱すぎます。"
+
+msgid "The disk reports a serious fault."
+msgstr "ディスクが重大な故障を報告しています。"
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "最終的なパスワードは、初回に開くときに Dolphin から求められます。記憶するよう設定することもできます。"
+
+msgid "The last self-test failed."
+msgstr "前回のセルフテストは失敗しました。"
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "名前が空か、使用できない文字が含まれています。"
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "名前がこの形式には長すぎます (最大 {max} 文字)。"
+
+msgid "The pkexec command was not found."
+msgstr "pkexec コマンドが見つかりません。"
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "プログラム「{name}」はこのコンピューターにインストールされていません。"
+
+msgid "The search failed."
+msgstr "検索に失敗しました。"
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "サーバーのアドレスが空か、使用できない文字が含まれています。"
+
+msgid "The server is not responding (timed out)."
+msgstr "サーバーが応答しません (タイムアウト)。"
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "共有名が空か、使用できない文字が含まれています。"
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "smartctl コマンドが見つかりません。\n\nこの機能を有効にするには smartmontools パッケージをインストールしてください。"
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "smbclient プログラムがインストールされていません (パッケージ「samba」)。共有名を直接入力するか、追加後に「開く」ボタンを使用してください。"
+
+msgid "The spare area is used up."
+msgstr "予備領域を使い切りました。"
+
+msgid "The test could not be started."
+msgstr "テストを開始できませんでした。"
+
+msgid "The udisksctl command was not found on this system."
+msgstr "このシステムでは udisksctl コマンドが見つかりません。"
+
+msgid "The username contains a forbidden character."
+msgstr "ユーザー名に使用できない文字が含まれています。"
+
+msgid "The username is required to remember the password."
+msgstr "パスワードを記憶するには、ユーザー名が必要です。"
+
+msgid "The username is required."
+msgstr "ユーザー名は必須です。"
+
+msgid "The volume could not be unmounted. Close the files and windows that use it, then try again."
+msgstr "ボリュームをアンマウントできませんでした。使用中のファイルやウィンドウを閉じてから、もう一度お試しください。"
+
+msgid "This PC"
+msgstr "PC"
+
+msgid "This disk does not report its health (usual for USB disks, memory cards and virtual disks)."
+msgstr "このディスクは状態を報告しません(USB ディスク、メモリーカード、仮想ディスクでは普通です)。"
+
+msgid "This location already exists in the list."
+msgstr "この場所はすでに一覧にあります。"
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "このソフトウェアは Microsoft Corporation とは関係がなく、承認も受けていません。Windows は Microsoft Corporation の商標です。"
+
+msgid "Time left"
+msgstr "残り時間"
+
+msgid "Touchpad"
+msgstr "タッチパッド"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Type the password to be able to remember it."
+msgstr "パスワードを記憶するには、パスワードを入力してください。"
+
+msgid "Type:"
+msgstr "種類:"
+
+msgid "Unexpected shutdowns"
+msgstr "予期しない電源断"
+
+msgid "Unmounting the disk failed."
+msgstr "ディスクのマウント解除に失敗しました。"
+
+msgid "Unmounting {label} timed out."
+msgstr "{label} のマウント解除がタイムアウトしました。"
+
+msgid "Used space"
+msgstr "使用領域"
+
+msgid "Used: {size}"
+msgstr "使用中: {size}"
+
+msgid "Username (required):"
+msgstr "ユーザー名 (必須):"
+
+msgid "Version {version} of This PC is available. To update, download it and run bash install.sh again."
+msgstr "PC のバージョン {version} が利用可能です。更新するには、ダウンロードして bash install.sh をもう一度実行してください。"
+
+msgid "Version {version} · Plasma version"
+msgstr "バージョン {version} · Plasma 版"
+
+msgid "Videos"
+msgstr "ビデオ"
+
+msgid "View"
+msgstr "表示"
+
+msgid "Volume name"
+msgstr "ボリューム名"
+
+msgid "Wear"
+msgstr "摩耗"
+
+msgid "Windows, Mac and Linux, files of any size. Best for USB sticks and external disks."
+msgstr "Windows、Mac、Linux で使え、ファイルサイズの制限なし。USB メモリーや外付けディスクに最適。"
+
+msgid "Works everywhere (TV, car radio, old devices), but no file larger than 4 GB."
+msgstr "どこでも使えます(テレビ、カーオーディオ、古い機器)が、4 GB を超えるファイルは保存できません。"
+
+msgid "Writes zeros over the whole disk: can take hours, but the old data can no longer be recovered."
+msgstr "ディスク全体をゼロで埋めます。数時間かかることがありますが、古いデータは復元できなくなります。"
+
+msgid "Yellow"
+msgstr "イエロー"
+
+msgid "Your administrator password is asked to read the disk. You can keep working; the disk will be a little slower."
+msgstr "ディスクを読み取るために管理者のパスワードが必要です。作業は続けられますが、ディスクは少し遅くなります。"
+
+msgid "filled in from the list, or type it"
+msgstr "一覧から入力されます。または直接入力"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus が見つからないか、タイムアウトしました。"
+
+msgid "only for “List”, never saved"
+msgstr "「一覧表示」専用で、保存されません"
+
+msgid "unknown error"
+msgstr "不明なエラー"
+
+msgid "{free} free of {total}"
+msgstr "{total} 中 {free} が空き"
+
+msgid "{h} h (about {d} days)"
+msgstr "{h} 時間(約 {d} 日)"
+
+msgid "{h} h {m} min"
+msgstr "{h} 時間 {m} 分"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} のマウントは解除されましたが、電源を切れませんでした:\n{detail}\n\nそのまま取り外しても問題ありません。"
+
+msgid "{m} min {s} s"
+msgstr "{m} 分 {s} 秒"
+
+msgid "{n} item(s)"
+msgstr "{n} 個の項目"
+
+msgid "{n} sectors"
+msgstr "{n} セクター"
+
+msgid "{share} on {host}"
+msgstr "{host} の {share}"
+
+msgid "{test} complete: failed. Back up your files."
+msgstr "{test} 完了: 不合格。ファイルをバックアップしてください。"
+
+msgid "{test} complete: passed."
+msgstr "{test} 完了: 合格。"
+
+msgid "{test} in progress…"
+msgstr "{test} 実行中…"
+
+msgid "{test} stopped."
+msgstr "{test} を中止しました。"
+
+msgid "{t} °C (warning at {w} °C)"
+msgstr "{t} °C(警告: {w} °C)"
+
+msgid "{v} MB/s"
+msgstr "{v} MB/秒"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "「{name}」が応答しません。電源が入っていて、ネットワークに接続されていることを確認してください。"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Open items with a single click"
+msgstr "シングルクリックで項目を開く"
+
+msgid "Applies to all of Plasma: Dolphin, the desktop and This PC."
+msgstr "Plasma 全体 (Dolphin、デスクトップ、この PC) に適用されます。"
+
+msgid "Free space alert"
+msgstr "空き容量の警告"
+
+msgid "{n} %"
+msgstr "{n}%"
+
+msgid "The drive gauge turns red when the free space falls below this level."
+msgstr "空き容量がこの値を下回ると、ドライブのゲージが赤になります。"
+
+msgid "Keeping 10 to 20 % free is recommended, especially for SSDs."
+msgstr "特に SSD では、10〜20% の空き容量を保つことをお勧めします。"
+
+msgid "About Fenestra This PC"
+msgstr "Fenestra This PC について"
+
+msgid "Version {version}"
+msgstr "バージョン {version}"
+
+msgid "Could not lock {label}:\n{detail}"
+msgstr "{label} をロックできませんでした:\n{detail}"
+
+msgid "Lifetime remaining"
+msgstr "残り寿命"
+
+msgid "Manufacturer's estimate. At 0 %, the disk has reached its expected lifespan."
+msgstr "メーカーの推定値です。0 % になると、ディスクは想定寿命に達しています。"
+
+msgid "More"
+msgstr "その他"
+
+msgid "Compact toolbar (icons only)"
+msgstr "コンパクトなツールバー（アイコンのみ）"
+
+msgid "Same commands as the full toolbar, shown as icons. Adding a network location and choosing which sections to show are in the “…” menu."
+msgstr "フルツールバーと同じコマンドをアイコンで表示します。ネットワークの場所の追加と表示するセクションの選択は「…」メニューにあります。"
+
+msgid "Same commands as the full toolbar, shown as icons. Choosing which sections to show is in the “…” menu."
+msgstr "フルツールバーと同じコマンドをアイコンで表示します。表示するセクションの選択は「…」メニューにあります。"
+
+msgid "Low ink level: {colors}"
+msgstr "インク残量わずか：{colors}"
+
+msgid "Search in Discover"
+msgstr "Discover で検索"
+
+msgid "PyQt6 is missing"
+msgstr "PyQt6 がありません"
+
+msgid "Install PyQt6"
+msgstr "PyQt6 をインストール"
+
+msgid "Installing PyQt6…"
+msgstr "PyQt6 をインストールしています…"
+
+msgid "Please wait…"
+msgstr "しばらくお待ちください…"
+
+msgid "PyQt6 could not be installed."
+msgstr "PyQt6 をインストールできませんでした。"
+
+msgid "PyQt6 is installed"
+msgstr "PyQt6 がインストールされました"
+
+msgid "No PyQt6 package was found for this system. Install the PyQt6 package for Python 3 with your package manager."
+msgstr "このシステム用の PyQt6 パッケージが見つかりませんでした。パッケージマネージャーで Python 3 用の PyQt6 パッケージをインストールしてください。"
+
+msgid "IP address"
+msgstr "IPアドレス"
