@@ -16,7 +16,6 @@
 - **Padlock** on encrypted (LUKS) volumes: an open padlock (grey body, blue bands, drawn for Fenestra) over the drive icon: a locked container is not shown in This PC, so only the unlocked state exists. Removable drives use the drive icon with a USB mark instead of a flash-drive icon.
 - **Encrypted USB drives** are now recognised as removable: "Safely remove" appears in the right-click menu (the volume is unmounted, the container locked, then the drive powered off), and they are listed after the optical drive like other removable disks.
 - **Ink levels on the printer card**: one small vertical bar per cartridge, in the ink's colour, with the tooltip lists the exact percentages. Below the printer's low-level mark, a fixed red line under the status names the colours ("Low ink level: Black"). The threshold is the one the printer declares (marker-low-levels); if it declares none, 10 % is used. Hidden while the printer is offline.
-- **Printer window** and **About** window in the same style: separate windows you can move and keep open.
 - **Fenestra logo** in "About".
 - **The install script offers to install the missing system tools** (smartmontools, exfatprogs, ntfs-3g…) with your distribution's package manager, after asking. Nothing is installed without your agreement, and applications stay your choice.
 - New application icon.
@@ -37,5 +36,5 @@
 - Crash when closing the window while background searches were running.
 
 ### Languages
-- **Portuguese (Portugal)** added, for 14 languages in total.
+- **Portuguese (Portugal)** added, for 14 languages in total: English, French, German, Spanish, Italian, Portuguese (Portugal), Portuguese (Brazil), Dutch, Polish, Russian, Turkish, Japanese, Simplified Chinese and Traditional Chinese.
 - All new texts translated in the 14 languages.
