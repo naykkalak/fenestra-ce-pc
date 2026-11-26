@@ -1,0 +1,862 @@
+# Fenestra This PC: "es" translation
+# Copyright (C) naykkalak (2026) for Fenestra This PC
+# SPDX-License-Identifier: GPL-3.0-or-later
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10, nombre-del-nas o smb://..."
+
+msgid "A few seconds. The old data is not overwritten."
+msgstr "Unos segundos. Los datos antiguos no se sobrescriben."
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "About This PC"
+msgstr "Acerca de Este equipo"
+
+msgid "Add a network location"
+msgstr "Agregar una ubicación de red"
+
+msgid "All the data on “{name}” will be permanently erased."
+msgstr "Todos los datos de «{name}» se borrarán definitivamente."
+
+msgid "Analyze space…"
+msgstr "Analizar el espacio…"
+
+msgid "Author: {author}"
+msgstr "Autor: {author}"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "Available spare"
+msgstr "Reserva disponible"
+
+msgid "Back up your files now and plan to replace this disk. A file stored on a damaged sector can be lost."
+msgstr "Haga ahora una copia de sus archivos y prevea sustituir este disco. Un archivo situado en un sector dañado puede perderse."
+
+msgid "Bad sectors"
+msgstr "Sectores defectuosos"
+
+msgid "Black"
+msgstr "Negro"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Built-in"
+msgstr "Integrado"
+
+msgid "CD/DVD Drive"
+msgstr "Unidad de CD/DVD"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cannot add"
+msgstr "No se puede agregar"
+
+msgid "Cannot eject"
+msgstr "No se puede expulsar"
+
+msgid "Cannot open"
+msgstr "No se puede abrir"
+
+msgid "Cannot remove"
+msgstr "No se puede quitar"
+
+msgid "Cannot rename"
+msgstr "No se puede cambiar el nombre"
+
+msgid "Capacity"
+msgstr "Capacidad"
+
+msgid "Capacity: {size}"
+msgstr "Capacidad: {size}"
+
+msgid "Check for a new version once a week"
+msgstr "Buscar una nueva versión una vez por semana"
+
+msgid "Choose a share…"
+msgstr "Elegir un recurso compartido…"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "Iconos de la barra de comandos: Fluent UI System Icons, © Microsoft Corporation, licencia MIT."
+
+msgid "Connected via USB"
+msgstr "Conectada por USB"
+
+msgid "Could not save the list:\n{error}"
+msgstr "No se pudo guardar la lista:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "No se pudo desmontar el disco:\n{detail}\n\nCierre las ventanas y aplicaciones que usan esta unidad e inténtelo de nuevo."
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "No se pudo desmontar {label}:\n{detail}\n\nCompruebe que no haya ningún archivo abierto en esta unidad."
+
+msgid "Cyan"
+msgstr "Cian"
+
+msgid "Damaged"
+msgstr "Dañados"
+
+msgid "Data errors"
+msgstr "Errores de datos"
+
+msgid "Data errors have been detected."
+msgstr "Se han detectado errores de datos."
+
+msgid "Data read"
+msgstr "Datos leídos"
+
+msgid "Data written"
+msgstr "Datos escritos"
+
+msgid "Default"
+msgstr "Predeterminada"
+
+msgid "Desktop"
+msgstr "Escritorio"
+
+msgid "Detailed report…"
+msgstr "Informe detallado…"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Detected automatically on the network"
+msgstr "Detectada automáticamente en la red"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Device:"
+msgstr "Dispositivo:"
+
+msgid "Devices and drives ({n})"
+msgstr "Dispositivos y unidades ({n})"
+
+msgid "Disk failing – back up your files"
+msgstr "Disco defectuoso – haga una copia de sus archivos"
+
+msgid "Disk health"
+msgstr "Estado del disco"
+
+msgid "Disk self-test"
+msgstr "Autoprueba del disco"
+
+msgid "Display name (optional):"
+msgstr "Nombre para mostrar (opcional):"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Downloads"
+msgstr "Descargas"
+
+msgid "Eject"
+msgstr "Expulsar"
+
+msgid "File system"
+msgstr "Sistema de archivos"
+
+msgid "File system:"
+msgstr "Sistema de archivos:"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Folders ({n})"
+msgstr "Carpetas ({n})"
+
+msgid "For a disk used mainly with Windows."
+msgstr "Para un disco usado sobre todo con Windows."
+
+msgid "For a disk used only with Linux."
+msgstr "Para un disco usado solo con Linux."
+
+msgid "Format"
+msgstr "Formatear"
+
+msgid "Format cancelled: the volume must be formatted again before use."
+msgstr "Formateo cancelado: el volumen debe formatearse de nuevo antes de usarlo."
+
+msgid "Format complete."
+msgstr "Formateo terminado."
+
+msgid "Format {name}"
+msgstr "Formatear {name}"
+
+msgid "Formatting failed."
+msgstr "El formateo ha fallado."
+
+msgid "Formatting options"
+msgstr "Opciones de formato"
+
+msgid "Formatting…"
+msgstr "Formateando…"
+
+msgid "Format…"
+msgstr "Formatear…"
+
+msgid "Free space"
+msgstr "Espacio libre"
+
+msgid "Free: {size}"
+msgstr "Libre: {size}"
+
+msgid "Full test"
+msgstr "Prueba completa"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GPL-3.0 only"
+msgstr "solo GPL-3.0"
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 o posterior"
+
+msgid "Game controller"
+msgstr "Mando de juego"
+
+msgid "General"
+msgstr "General"
+
+msgid "Good condition"
+msgstr "Buen estado"
+
+msgid "Graphics tablet"
+msgstr "Tableta gráfica"
+
+msgid "Gray"
+msgstr "Gris"
+
+msgid "Hard disk drive"
+msgstr "Disco duro"
+
+msgid "Health"
+msgstr "Estado"
+
+msgid "Health information not available"
+msgstr "Información de estado no disponible"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Incorrect username or password."
+msgstr "Nombre de usuario o contraseña incorrectos."
+
+msgid "Information"
+msgstr "Información"
+
+msgid "Ink levels"
+msgstr "Niveles de tinta"
+
+msgid "Insufficient rights"
+msgstr "Permisos insuficientes"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet no ha podido guardar la contraseña: no se mostrará la barra de espacio."
+
+msgid "Keep an eye on this disk: run the scan again later to compare."
+msgstr "Vigile este disco: repita el análisis más adelante para comparar."
+
+msgid "Keyboard"
+msgstr "Teclado"
+
+msgid "Last self-test: passed."
+msgstr "Última autoprueba: superada."
+
+msgid "License: {license}"
+msgstr "Licencia: {license}"
+
+msgid "Lifetime used"
+msgstr "Vida útil consumida"
+
+msgid "Light cyan"
+msgstr "Cian claro"
+
+msgid "Light magenta"
+msgstr "Magenta claro"
+
+msgid "List"
+msgstr "Listar"
+
+msgid "Local Disk"
+msgstr "Disco local"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Location unavailable"
+msgstr "Ubicación no disponible"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Manufacturer's estimate. At 100 %, the disk has reached its expected lifespan."
+msgstr "Estimación del fabricante. Al 100 %, el disco alcanza su vida útil prevista."
+
+msgid "Matte black"
+msgstr "Negro mate"
+
+msgid "Model"
+msgstr "Modelo"
+
+msgid "Mount point"
+msgstr "Punto de montaje"
+
+msgid "Mount point:"
+msgstr "Punto de montaje:"
+
+msgid "Mouse"
+msgstr "Ratón"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "My NAS"
+msgstr "Mi NAS"
+
+msgid "Network"
+msgstr "Red"
+
+msgid "Network location"
+msgstr "Ubicación de red"
+
+msgid "Network locations ({n})"
+msgstr "Ubicaciones de red ({n})"
+
+msgid "No disc"
+msgstr "Sin disco"
+
+msgid "No information available."
+msgstr "No hay información disponible."
+
+msgid "No share visible with these credentials."
+msgstr "No se ve ningún recurso compartido con estas credenciales."
+
+msgid "No sign of abnormal wear."
+msgstr "Ningún signo de desgaste anormal."
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Normal"
+msgstr "Normales"
+
+msgid "Not available on this computer (missing tool: {tool})."
+msgstr "No disponible en este equipo (falta la herramienta: {tool})."
+
+msgid "Not connected"
+msgstr "No conectado"
+
+msgid "Not read"
+msgstr "No leídos"
+
+msgid "Number of sectors"
+msgstr "Número de sectores"
+
+msgid "Offline"
+msgstr "Sin conexión"
+
+msgid "One square"
+msgstr "Un cuadrado"
+
+msgid "Open"
+msgstr "Abrir"
+
+msgid "Open in Dolphin"
+msgstr "Abrir en Dolphin"
+
+msgid "Open with Dolphin"
+msgstr "Abrir con Dolphin"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "Forma parte de la serie Fenestra, que da a KDE Plasma el aspecto de un escritorio de Windows 11."
+
+msgid "Partial eject"
+msgstr "Expulsión parcial"
+
+msgid "Password not remembered"
+msgstr "Contraseña no recordada"
+
+msgid "Password:"
+msgstr "Contraseña:"
+
+msgid "Photo black"
+msgstr "Negro foto"
+
+msgid "Pictures"
+msgstr "Imágenes"
+
+msgid "Power cycles"
+msgstr "Encendidos"
+
+msgid "Power-on time"
+msgstr "Tiempo de funcionamiento"
+
+msgid "Printer"
+msgstr "Impresora"
+
+msgid "Printers and devices ({n})"
+msgstr "Impresoras y dispositivos ({n})"
+
+msgid "Printing"
+msgstr "Imprimiendo"
+
+msgid "Program not found"
+msgstr "Programa no encontrado"
+
+msgid "Properties"
+msgstr "Propiedades"
+
+msgid "Properties of {name}"
+msgstr "Propiedades de {name}"
+
+msgid "Quick format"
+msgstr "Formateo rápido"
+
+msgid "Quick test"
+msgstr "Prueba rápida"
+
+msgid "Quick test: from a few seconds to 2 minutes. Full test: from several minutes to several hours. You can keep using the computer."
+msgstr "Prueba rápida: de unos segundos a 2 minutos. Prueba completa: de unos minutos a varias horas. Puede seguir usando el equipo."
+
+msgid "Read through the USB enclosure"
+msgstr "Leer a través de la caja USB"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "La lectura de SMART requiere permisos de root, y pkexec (elevación gráfica) no se ha encontrado en este sistema."
+
+msgid "Reading SMART timed out."
+msgstr "La lectura de SMART ha tardado demasiado."
+
+msgid "Reading…"
+msgstr "Leyendo…"
+
+msgid "Reads every sector of the disk without writing anything. Each square is a group of sectors."
+msgstr "Lee todos los sectores del disco sin escribir nada. Cada cuadrado representa un grupo de sectores."
+
+msgid "Ready"
+msgstr "Lista"
+
+msgid "Refresh"
+msgstr "Actualizar"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "Recordar la contraseña (KWallet) para mostrar el espacio libre"
+
+msgid "Remount failed"
+msgstr "Error al volver a montar"
+
+msgid "Removable Disk"
+msgstr "Disco extraíble"
+
+msgid "Removable disk"
+msgstr "Disco extraíble"
+
+msgid "Remove from list"
+msgstr "Quitar de la lista"
+
+msgid "Remove this location"
+msgstr "Quitar esta ubicación"
+
+msgid "Rename"
+msgstr "Cambiar nombre"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "No se admite cambiar el nombre en este formato ({fstype})."
+
+msgid "Run a quick test"
+msgstr "Iniciar una prueba rápida"
+
+msgid "SMART status…"
+msgstr "Estado SMART…"
+
+msgid "SMART unavailable"
+msgstr "SMART no disponible"
+
+msgid "Safely remove"
+msgstr "Quitar de forma segura"
+
+msgid "Scan complete: no problem found."
+msgstr "Análisis terminado: ningún problema."
+
+msgid "Scan complete: some sectors are slow."
+msgstr "Análisis terminado: algunos sectores son lentos."
+
+msgid "Scan complete: {n} damaged sectors."
+msgstr "Análisis terminado: {n} sectores dañados."
+
+msgid "Scan stopped."
+msgstr "Análisis detenido."
+
+msgid "Scanned"
+msgstr "Analizados"
+
+msgid "Scanner"
+msgstr "Escáner"
+
+msgid "Searching…"
+msgstr "Buscando…"
+
+msgid "Serial number"
+msgstr "Número de serie"
+
+msgid "Server address:"
+msgstr "Dirección del servidor:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "Servidor inaccesible. Compruebe la dirección y que el servidor esté encendido."
+
+msgid "Share name (required):"
+msgstr "Nombre del recurso compartido (obligatorio):"
+
+msgid "Shares found:"
+msgstr "Recursos compartidos encontrados:"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Signs of wear"
+msgstr "Signos de desgaste"
+
+msgid "Signs of wear – see Properties"
+msgstr "Signos de desgaste – ver Propiedades"
+
+msgid "Slow"
+msgstr "Lentos"
+
+msgid "Speed"
+msgstr "Velocidad"
+
+msgid "Start the scan"
+msgstr "Iniciar el análisis"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Status:"
+msgstr "Estado:"
+
+msgid "Stop"
+msgstr "Detener"
+
+msgid "Surface"
+msgstr "Superficie"
+
+msgid "Surface scan"
+msgstr "Análisis de superficie"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "System Settings"
+msgstr "Configuración del sistema"
+
+msgid "System information"
+msgstr "Información del sistema"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+msgid "The USB enclosure of this disk does not pass on its health information."
+msgstr "La caja USB de este disco no transmite su información de estado."
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "No se pudo volver a montar el disco:\n{detail}\n\nDesconéctelo y vuelva a conectarlo."
+
+msgid "The disk is near the end of its expected life."
+msgstr "El disco se acerca al final de su vida útil prevista."
+
+msgid "The disk is still finishing the previous test. Try again in a minute."
+msgstr "El disco todavía está terminando la prueba anterior. Inténtelo de nuevo en un minuto."
+
+msgid "The disk is too hot."
+msgstr "El disco está demasiado caliente."
+
+msgid "The disk reports a serious fault."
+msgstr "El disco indica una avería grave."
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "Dolphin pide la contraseña definitiva la primera vez que se abre; puede pedirle que la recuerde."
+
+msgid "The last self-test failed."
+msgstr "La última autoprueba ha fallado."
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "El nombre está vacío o contiene un carácter no permitido."
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "El nombre es demasiado largo para este formato (máximo {max} caracteres)."
+
+msgid "The pkexec command was not found."
+msgstr "No se ha encontrado el comando pkexec."
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "El programa «{name}» no está instalado en este equipo."
+
+msgid "The search failed."
+msgstr "La búsqueda ha fallado."
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "La dirección del servidor está vacía o contiene un carácter no permitido."
+
+msgid "The server is not responding (timed out)."
+msgstr "El servidor no responde (tiempo de espera agotado)."
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "El nombre del recurso compartido está vacío o contiene un carácter no permitido."
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "El comando smartctl no se ha encontrado.\n\nInstale el paquete smartmontools para activar esta función."
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "El programa smbclient no está instalado (paquete «samba»). Escriba el nombre del recurso compartido a mano, o use el botón «Abrir» después de agregarlo."
+
+msgid "The spare area is used up."
+msgstr "La reserva de seguridad está agotada."
+
+msgid "The test could not be started."
+msgstr "No se ha podido iniciar la prueba."
+
+msgid "The udisksctl command was not found on this system."
+msgstr "El comando udisksctl no se ha encontrado en este sistema."
+
+msgid "The username contains a forbidden character."
+msgstr "El nombre de usuario contiene un carácter no permitido."
+
+msgid "The username is required to remember the password."
+msgstr "El nombre de usuario es obligatorio para recordar la contraseña."
+
+msgid "The username is required."
+msgstr "El nombre de usuario es obligatorio."
+
+msgid "The volume could not be unmounted. Close the files and windows that use it, then try again."
+msgstr "No se ha podido desmontar el volumen. Cierre los archivos y ventanas que lo usan y vuelva a intentarlo."
+
+msgid "This PC"
+msgstr "Este equipo"
+
+msgid "This disk does not report its health (usual for USB disks, memory cards and virtual disks)."
+msgstr "Este disco no comunica su estado (habitual en discos USB, tarjetas de memoria y discos virtuales)."
+
+msgid "This location already exists in the list."
+msgstr "Esta ubicación ya existe en la lista."
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "Este software no está afiliado a Microsoft Corporation ni cuenta con su aprobación. Windows es una marca comercial de Microsoft Corporation."
+
+msgid "Time left"
+msgstr "Tiempo restante"
+
+msgid "Touchpad"
+msgstr "Panel táctil"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Type the password to be able to remember it."
+msgstr "Escriba la contraseña para poder recordarla."
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Unexpected shutdowns"
+msgstr "Apagados inesperados"
+
+msgid "Unmounting the disk failed."
+msgstr "No se ha podido desmontar el disco."
+
+msgid "Unmounting {label} timed out."
+msgstr "El desmontaje de {label} ha tardado demasiado."
+
+msgid "Used space"
+msgstr "Espacio usado"
+
+msgid "Used: {size}"
+msgstr "Usado: {size}"
+
+msgid "Username (required):"
+msgstr "Nombre de usuario (obligatorio):"
+
+msgid "Version {version} of This PC is available. To update, download it and run bash install.sh again."
+msgstr "La versión {version} de Este equipo está disponible. Para actualizar, descárguela y vuelva a ejecutar bash install.sh."
+
+msgid "Version {version} · Plasma version"
+msgstr "Versión {version} · versión para Plasma"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Volume name"
+msgstr "Nombre del volumen"
+
+msgid "Wear"
+msgstr "Desgaste"
+
+msgid "Windows, Mac and Linux, files of any size. Best for USB sticks and external disks."
+msgstr "Windows, Mac y Linux, archivos de cualquier tamaño. Ideal para memorias USB y discos externos."
+
+msgid "Works everywhere (TV, car radio, old devices), but no file larger than 4 GB."
+msgstr "Funciona en todas partes (TV, radio del coche, aparatos antiguos), pero sin archivos de más de 4 GB."
+
+msgid "Writes zeros over the whole disk: can take hours, but the old data can no longer be recovered."
+msgstr "Llena todo el disco de ceros: puede tardar horas, pero los datos antiguos ya no se pueden recuperar."
+
+msgid "Yellow"
+msgstr "Amarillo"
+
+msgid "Your administrator password is asked to read the disk. You can keep working; the disk will be a little slower."
+msgstr "Se pide su contraseña de administrador para leer el disco. Puede seguir trabajando; el disco irá algo más lento."
+
+msgid "filled in from the list, or type it"
+msgstr "rellenado desde la lista, o escríbalo"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus no se ha encontrado o ha tardado demasiado."
+
+msgid "only for “List”, never saved"
+msgstr "solo para «Listar», nunca se guarda"
+
+msgid "unknown error"
+msgstr "error desconocido"
+
+msgid "{free} free of {total}"
+msgstr "{free} libres de {total}"
+
+msgid "{h} h (about {d} days)"
+msgstr "{h} h (unos {d} días)"
+
+msgid "{h} h {m} min"
+msgstr "{h} h {m} min"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} se ha desmontado, pero no se ha podido apagar:\n{detail}\n\nAun así puede desconectarlo."
+
+msgid "{m} min {s} s"
+msgstr "{m} min {s} s"
+
+msgid "{n} item(s)"
+msgstr "{n} elemento(s)"
+
+msgid "{n} sectors"
+msgstr "{n} sectores"
+
+msgid "{share} on {host}"
+msgstr "{share} en {host}"
+
+msgid "{test} complete: failed. Back up your files."
+msgstr "{test} terminada: fallida. Haga una copia de sus archivos."
+
+msgid "{test} complete: passed."
+msgstr "{test} terminada: superada."
+
+msgid "{test} in progress…"
+msgstr "{test} en curso…"
+
+msgid "{test} stopped."
+msgstr "{test} detenida."
+
+msgid "{t} °C (warning at {w} °C)"
+msgstr "{t} °C (alerta a {w} °C)"
+
+msgid "{v} MB/s"
+msgstr "{v} MB/s"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "«{name}» no responde. Compruebe que está encendido y conectado a la red."
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Open items with a single click"
+msgstr "Abrir los elementos con un solo clic"
+
+msgid "Applies to all of Plasma: Dolphin, the desktop and This PC."
+msgstr "Se aplica a todo Plasma: Dolphin, el escritorio y Este equipo."
+
+msgid "Free space alert"
+msgstr "Alerta de espacio libre"
+
+msgid "{n} %"
+msgstr "{n} %"
+
+msgid "The drive gauge turns red when the free space falls below this level."
+msgstr "El indicador de la unidad se vuelve rojo cuando el espacio libre baja de este nivel."
+
+msgid "Keeping 10 to 20 % free is recommended, especially for SSDs."
+msgstr "Se recomienda mantener libre entre un 10 y un 20 %, sobre todo en los SSD."
+
+msgid "About Fenestra This PC"
+msgstr "Acerca de Fenestra This PC"
+
+msgid "Version {version}"
+msgstr "Versión {version}"
+
+msgid "Could not lock {label}:\n{detail}"
+msgstr "No se pudo bloquear {label}:\n{detail}"
+
+msgid "Lifetime remaining"
+msgstr "Vida útil restante"
+
+msgid "Manufacturer's estimate. At 0 %, the disk has reached its expected lifespan."
+msgstr "Estimación del fabricante. Al 0 %, el disco ha alcanzado su vida útil prevista."
+
+msgid "More"
+msgstr "Más"
+
+msgid "Compact toolbar (icons only)"
+msgstr "Barra de herramientas compacta (solo iconos)"
+
+msgid "Same commands as the full toolbar, shown as icons. Adding a network location and choosing which sections to show are in the “…” menu."
+msgstr "Los mismos comandos que la barra completa, mostrados como iconos. Añadir una ubicación de red y elegir qué secciones mostrar están en el menú «…»."
+
+msgid "Same commands as the full toolbar, shown as icons. Choosing which sections to show is in the “…” menu."
+msgstr "Los mismos comandos que la barra completa, mostrados como iconos. Elegir qué secciones mostrar está en el menú « … »."
+
+msgid "Low ink level: {colors}"
+msgstr "Nivel de tinta bajo: {colors}"
+
+msgid "Search in Discover"
+msgstr "Buscar en Discover"
+
+msgid "PyQt6 is missing"
+msgstr "Falta PyQt6"
+
+msgid "Install PyQt6"
+msgstr "Instalar PyQt6"
+
+msgid "Installing PyQt6…"
+msgstr "Instalando PyQt6…"
+
+msgid "Please wait…"
+msgstr "Espera, por favor…"
+
+msgid "PyQt6 could not be installed."
+msgstr "No se pudo instalar PyQt6."
+
+msgid "PyQt6 is installed"
+msgstr "PyQt6 está instalado"
+
+msgid "No PyQt6 package was found for this system. Install the PyQt6 package for Python 3 with your package manager."
+msgstr "No se encontró ningún paquete PyQt6 para este sistema. Instale el paquete PyQt6 para Python 3 con su gestor de paquetes."
+
+msgid "IP address"
+msgstr "Dirección IP"

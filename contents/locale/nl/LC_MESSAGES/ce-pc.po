@@ -1,0 +1,862 @@
+# Fenestra This PC: "nl" translation
+# Copyright (C) naykkalak (2026) for Fenestra This PC
+# SPDX-License-Identifier: GPL-3.0-or-later
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "192.168.1.10, nas-name or smb://..."
+msgstr "192.168.1.10, naam-van-de-nas of smb://..."
+
+msgid "A few seconds. The old data is not overwritten."
+msgstr "Een paar seconden. De oude gegevens worden niet overschreven."
+
+msgid "About"
+msgstr "Info"
+
+msgid "About This PC"
+msgstr "Over Deze pc"
+
+msgid "Add a network location"
+msgstr "Een netwerklocatie toevoegen"
+
+msgid "All the data on “{name}” will be permanently erased."
+msgstr "Alle gegevens op ‘{name}’ worden definitief gewist."
+
+msgid "Analyze space…"
+msgstr "Ruimte analyseren…"
+
+msgid "Author: {author}"
+msgstr "Auteur: {author}"
+
+msgid "Available"
+msgstr "Beschikbaar"
+
+msgid "Available spare"
+msgstr "Beschikbare reserve"
+
+msgid "Back up your files now and plan to replace this disk. A file stored on a damaged sector can be lost."
+msgstr "Maak nu een back-up van uw bestanden en plan de vervanging van deze schijf. Een bestand op een beschadigde sector kan verloren gaan."
+
+msgid "Bad sectors"
+msgstr "Slechte sectoren"
+
+msgid "Black"
+msgstr "Zwart"
+
+msgid "Brand"
+msgstr "Merk"
+
+msgid "Built-in"
+msgstr "Ingebouwd"
+
+msgid "CD/DVD Drive"
+msgstr "Cd/dvd-station"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Cannot add"
+msgstr "Toevoegen niet mogelijk"
+
+msgid "Cannot eject"
+msgstr "Uitwerpen niet mogelijk"
+
+msgid "Cannot open"
+msgstr "Kan niet openen"
+
+msgid "Cannot remove"
+msgstr "Verwijderen niet mogelijk"
+
+msgid "Cannot rename"
+msgstr "Naam wijzigen niet mogelijk"
+
+msgid "Capacity"
+msgstr "Capaciteit"
+
+msgid "Capacity: {size}"
+msgstr "Capaciteit: {size}"
+
+msgid "Check for a new version once a week"
+msgstr "Eén keer per week op een nieuwe versie controleren"
+
+msgid "Choose a share…"
+msgstr "Kies een share…"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Command bar icons: Fluent UI System Icons, © Microsoft Corporation, MIT license."
+msgstr "Pictogrammen van de opdrachtbalk: Fluent UI System Icons, © Microsoft Corporation, MIT-licentie."
+
+msgid "Connected via USB"
+msgstr "Verbonden via USB"
+
+msgid "Could not save the list:\n{error}"
+msgstr "De lijst kon niet worden opgeslagen:\n{error}"
+
+msgid "Could not unmount the disk:\n{detail}\n\nClose the windows and applications that use this drive, then try again."
+msgstr "De schijf kon niet worden ontkoppeld:\n{detail}\n\nSluit de vensters en toepassingen die dit station gebruiken en probeer het opnieuw."
+
+msgid "Could not unmount {label}:\n{detail}\n\nCheck that no file is still open on this drive."
+msgstr "{label} kon niet worden ontkoppeld:\n{detail}\n\nControleer of er nog geen bestand op dit station is geopend."
+
+msgid "Cyan"
+msgstr "Cyaan"
+
+msgid "Damaged"
+msgstr "Beschadigd"
+
+msgid "Data errors"
+msgstr "Gegevensfouten"
+
+msgid "Data errors have been detected."
+msgstr "Er zijn gegevensfouten gevonden."
+
+msgid "Data read"
+msgstr "Gelezen gegevens"
+
+msgid "Data written"
+msgstr "Geschreven gegevens"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Desktop"
+msgstr "Bureaublad"
+
+msgid "Detailed report…"
+msgstr "Gedetailleerd rapport…"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Detected automatically on the network"
+msgstr "Automatisch gedetecteerd op het netwerk"
+
+msgid "Device"
+msgstr "Apparaat"
+
+msgid "Device:"
+msgstr "Apparaat:"
+
+msgid "Devices and drives ({n})"
+msgstr "Apparaten en stations ({n})"
+
+msgid "Disk failing – back up your files"
+msgstr "Schijf defect – maak een back-up van uw bestanden"
+
+msgid "Disk health"
+msgstr "Schijfstatus"
+
+msgid "Disk self-test"
+msgstr "Zelftest van de schijf"
+
+msgid "Display name (optional):"
+msgstr "Weergavenaam (optioneel):"
+
+msgid "Documents"
+msgstr "Documenten"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Eject"
+msgstr "Uitwerpen"
+
+msgid "File system"
+msgstr "Bestandssysteem"
+
+msgid "File system:"
+msgstr "Bestandssysteem:"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Folders ({n})"
+msgstr "Mappen ({n})"
+
+msgid "For a disk used mainly with Windows."
+msgstr "Voor een schijf die vooral met Windows wordt gebruikt."
+
+msgid "For a disk used only with Linux."
+msgstr "Voor een schijf die alleen met Linux wordt gebruikt."
+
+msgid "Format"
+msgstr "Formatteren"
+
+msgid "Format cancelled: the volume must be formatted again before use."
+msgstr "Formatteren geannuleerd: het volume moet opnieuw worden geformatteerd voor gebruik."
+
+msgid "Format complete."
+msgstr "Formatteren voltooid."
+
+msgid "Format {name}"
+msgstr "{name} formatteren"
+
+msgid "Formatting failed."
+msgstr "Formatteren is mislukt."
+
+msgid "Formatting options"
+msgstr "Formatteeropties"
+
+msgid "Formatting…"
+msgstr "Bezig met formatteren…"
+
+msgid "Format…"
+msgstr "Formatteren…"
+
+msgid "Free space"
+msgstr "Vrije ruimte"
+
+msgid "Free: {size}"
+msgstr "Vrij: {size}"
+
+msgid "Full test"
+msgstr "Volledige test"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "GPL-3.0 only"
+msgstr "alleen GPL-3.0"
+
+msgid "GPL-3.0 or later"
+msgstr "GPL-3.0 of later"
+
+msgid "Game controller"
+msgstr "Gamecontroller"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Good condition"
+msgstr "Goede staat"
+
+msgid "Graphics tablet"
+msgstr "Tekentablet"
+
+msgid "Gray"
+msgstr "Grijs"
+
+msgid "Hard disk drive"
+msgstr "Harde schijf"
+
+msgid "Health"
+msgstr "Status"
+
+msgid "Health information not available"
+msgstr "Geen statusinformatie beschikbaar"
+
+msgid "Hide"
+msgstr "Verbergen"
+
+msgid "Incorrect username or password."
+msgstr "Gebruikersnaam of wachtwoord onjuist."
+
+msgid "Information"
+msgstr "Informatie"
+
+msgid "Ink levels"
+msgstr "Inktniveaus"
+
+msgid "Insufficient rights"
+msgstr "Onvoldoende rechten"
+
+msgid "KWallet could not save the password: the gauge will not be shown."
+msgstr "KWallet kon het wachtwoord niet opslaan: de ruimtebalk wordt niet getoond."
+
+msgid "Keep an eye on this disk: run the scan again later to compare."
+msgstr "Houd deze schijf in de gaten: herhaal de scan later om te vergelijken."
+
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+msgid "Last self-test: passed."
+msgstr "Laatste zelftest: geslaagd."
+
+msgid "License: {license}"
+msgstr "Licentie: {license}"
+
+msgid "Lifetime used"
+msgstr "Verbruikte levensduur"
+
+msgid "Light cyan"
+msgstr "Lichtcyaan"
+
+msgid "Light magenta"
+msgstr "Lichtmagenta"
+
+msgid "List"
+msgstr "Weergeven"
+
+msgid "Local Disk"
+msgstr "Lokale schijf"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Location unavailable"
+msgstr "Locatie niet beschikbaar"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid "Manufacturer's estimate. At 100 %, the disk has reached its expected lifespan."
+msgstr "Schatting van de fabrikant. Bij 100 % heeft de schijf de verwachte levensduur bereikt."
+
+msgid "Matte black"
+msgstr "Matzwart"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Mount point"
+msgstr "Koppelpunt"
+
+msgid "Mount point:"
+msgstr "Koppelpunt:"
+
+msgid "Mouse"
+msgstr "Muis"
+
+msgid "Music"
+msgstr "Muziek"
+
+msgid "My NAS"
+msgstr "Mijn NAS"
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Network location"
+msgstr "Netwerklocatie"
+
+msgid "Network locations ({n})"
+msgstr "Netwerklocaties ({n})"
+
+msgid "No disc"
+msgstr "Geen schijf"
+
+msgid "No information available."
+msgstr "Geen informatie beschikbaar."
+
+msgid "No share visible with these credentials."
+msgstr "Geen shares zichtbaar met deze inloggegevens."
+
+msgid "No sign of abnormal wear."
+msgstr "Geen tekenen van abnormale slijtage."
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Not available on this computer (missing tool: {tool})."
+msgstr "Niet beschikbaar op deze computer (ontbrekend programma: {tool})."
+
+msgid "Not connected"
+msgstr "Niet verbonden"
+
+msgid "Not read"
+msgstr "Niet gelezen"
+
+msgid "Number of sectors"
+msgstr "Aantal sectoren"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "One square"
+msgstr "Eén vierkant"
+
+msgid "Open"
+msgstr "Openen"
+
+msgid "Open in Dolphin"
+msgstr "Openen in Dolphin"
+
+msgid "Open with Dolphin"
+msgstr "Openen met Dolphin"
+
+msgid "Part of the Fenestra series, which gives KDE Plasma the look of a Windows 11 desktop."
+msgstr "Maakt deel uit van de Fenestra-serie, die KDE Plasma het uiterlijk van een Windows 11-bureaublad geeft."
+
+msgid "Partial eject"
+msgstr "Gedeeltelijk uitgeworpen"
+
+msgid "Password not remembered"
+msgstr "Wachtwoord niet onthouden"
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+msgid "Photo black"
+msgstr "Fotozwart"
+
+msgid "Pictures"
+msgstr "Afbeeldingen"
+
+msgid "Power cycles"
+msgstr "Inschakelingen"
+
+msgid "Power-on time"
+msgstr "Bedrijfstijd"
+
+msgid "Printer"
+msgstr "Printer"
+
+msgid "Printers and devices ({n})"
+msgstr "Printers en apparaten ({n})"
+
+msgid "Printing"
+msgstr "Bezig met afdrukken"
+
+msgid "Program not found"
+msgstr "Programma niet gevonden"
+
+msgid "Properties"
+msgstr "Eigenschappen"
+
+msgid "Properties of {name}"
+msgstr "Eigenschappen van {name}"
+
+msgid "Quick format"
+msgstr "Snel formatteren"
+
+msgid "Quick test"
+msgstr "Snelle test"
+
+msgid "Quick test: from a few seconds to 2 minutes. Full test: from several minutes to several hours. You can keep using the computer."
+msgstr "Snelle test: enkele seconden tot 2 minuten. Volledige test: enkele minuten tot meerdere uren. U kunt de computer blijven gebruiken."
+
+msgid "Read through the USB enclosure"
+msgstr "Lezen via de USB-behuizing"
+
+msgid "Reading SMART requires root rights, and pkexec (graphical elevation) was not found on this system."
+msgstr "Voor het lezen van SMART zijn root-rechten nodig, en pkexec (grafische verhoging van rechten) is op dit systeem niet gevonden."
+
+msgid "Reading SMART timed out."
+msgstr "Het lezen van SMART duurde te lang."
+
+msgid "Reading…"
+msgstr "Bezig met lezen…"
+
+msgid "Reads every sector of the disk without writing anything. Each square is a group of sectors."
+msgstr "Leest elke sector van de schijf zonder iets te schrijven. Elk vierkant staat voor een groep sectoren."
+
+msgid "Ready"
+msgstr "Gereed"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "Remember the password (KWallet) to show the free space"
+msgstr "Wachtwoord onthouden (KWallet) om de vrije ruimte te tonen"
+
+msgid "Remount failed"
+msgstr "Opnieuw koppelen mislukt"
+
+msgid "Removable Disk"
+msgstr "Verwisselbare schijf"
+
+msgid "Removable disk"
+msgstr "Verwisselbare schijf"
+
+msgid "Remove from list"
+msgstr "Uit lijst verwijderen"
+
+msgid "Remove this location"
+msgstr "Deze locatie verwijderen"
+
+msgid "Rename"
+msgstr "Naam wijzigen"
+
+msgid "Renaming is not supported for this format ({fstype})."
+msgstr "Naam wijzigen wordt voor deze indeling ({fstype}) niet ondersteund."
+
+msgid "Run a quick test"
+msgstr "Snelle test starten"
+
+msgid "SMART status…"
+msgstr "SMART-status…"
+
+msgid "SMART unavailable"
+msgstr "SMART niet beschikbaar"
+
+msgid "Safely remove"
+msgstr "Veilig verwijderen"
+
+msgid "Scan complete: no problem found."
+msgstr "Scan voltooid: geen probleem gevonden."
+
+msgid "Scan complete: some sectors are slow."
+msgstr "Scan voltooid: sommige sectoren zijn traag."
+
+msgid "Scan complete: {n} damaged sectors."
+msgstr "Scan voltooid: {n} beschadigde sectoren."
+
+msgid "Scan stopped."
+msgstr "Scan gestopt."
+
+msgid "Scanned"
+msgstr "Gescand"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "Searching…"
+msgstr "Zoeken…"
+
+msgid "Serial number"
+msgstr "Serienummer"
+
+msgid "Server address:"
+msgstr "Serveradres:"
+
+msgid "Server unreachable. Check the address and that the server is turned on."
+msgstr "Server niet bereikbaar. Controleer het adres en of de server is ingeschakeld."
+
+msgid "Share name (required):"
+msgstr "Naam van de share (verplicht):"
+
+msgid "Shares found:"
+msgstr "Gevonden shares:"
+
+msgid "Show"
+msgstr "Weergeven"
+
+msgid "Signs of wear"
+msgstr "Tekenen van slijtage"
+
+msgid "Signs of wear – see Properties"
+msgstr "Tekenen van slijtage – zie Eigenschappen"
+
+msgid "Slow"
+msgstr "Traag"
+
+msgid "Speed"
+msgstr "Snelheid"
+
+msgid "Start the scan"
+msgstr "Scan starten"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Stop"
+msgstr "Stoppen"
+
+msgid "Surface"
+msgstr "Oppervlak"
+
+msgid "Surface scan"
+msgstr "Oppervlaktescan"
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "System Settings"
+msgstr "Systeeminstellingen"
+
+msgid "System information"
+msgstr "Systeeminformatie"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Temperature"
+msgstr "Temperatuur"
+
+msgid "The USB enclosure of this disk does not pass on its health information."
+msgstr "De USB-behuizing van deze schijf geeft geen statusinformatie door."
+
+msgid "The disk could not be remounted:\n{detail}\n\nUnplug it and plug it back in."
+msgstr "De schijf kon niet opnieuw worden gekoppeld:\n{detail}\n\nKoppel hem los en sluit hem opnieuw aan."
+
+msgid "The disk is near the end of its expected life."
+msgstr "De schijf nadert het einde van de verwachte levensduur."
+
+msgid "The disk is still finishing the previous test. Try again in a minute."
+msgstr "De schijf rondt de vorige test nog af. Probeer het over een minuut opnieuw."
+
+msgid "The disk is too hot."
+msgstr "De schijf is te heet."
+
+msgid "The disk reports a serious fault."
+msgstr "De schijf meldt een ernstige storing."
+
+msgid "The final password is requested by Dolphin the first time you open it; you can ask it to remember it."
+msgstr "Het definitieve wachtwoord wordt bij het eerste openen door Dolphin gevraagd; u kunt Dolphin vragen het te onthouden."
+
+msgid "The last self-test failed."
+msgstr "De laatste zelftest is mislukt."
+
+msgid "The name is empty or contains a forbidden character."
+msgstr "De naam is leeg of bevat een niet-toegestaan teken."
+
+msgid "The name is too long for this format (maximum {max} characters)."
+msgstr "De naam is te lang voor deze indeling (maximaal {max} tekens)."
+
+msgid "The pkexec command was not found."
+msgstr "Het commando pkexec is niet gevonden."
+
+msgid "The program “{name}” is not installed on this computer."
+msgstr "Het programma ‘{name}’ is niet geïnstalleerd op deze computer."
+
+msgid "The search failed."
+msgstr "Zoeken is mislukt."
+
+msgid "The server address is empty or contains a forbidden character."
+msgstr "Het serveradres is leeg of bevat een niet-toegestaan teken."
+
+msgid "The server is not responding (timed out)."
+msgstr "De server reageert niet (time-out)."
+
+msgid "The share name is empty or contains a forbidden character."
+msgstr "De naam van de share is leeg of bevat een niet-toegestaan teken."
+
+msgid "The smartctl command was not found.\n\nInstall the smartmontools package to enable this feature."
+msgstr "De opdracht smartctl is niet gevonden.\n\nInstalleer het pakket smartmontools om deze functie te activeren."
+
+msgid "The smbclient program is not installed (package “samba”). Type the share name by hand, or use the “Open” button after adding it."
+msgstr "Het programma smbclient is niet geïnstalleerd (pakket ‘samba’). Typ de naam van de share zelf in, of gebruik na het toevoegen de knop ‘Openen’."
+
+msgid "The spare area is used up."
+msgstr "De reserve is opgebruikt."
+
+msgid "The test could not be started."
+msgstr "De test kon niet worden gestart."
+
+msgid "The udisksctl command was not found on this system."
+msgstr "De opdracht udisksctl is op dit systeem niet gevonden."
+
+msgid "The username contains a forbidden character."
+msgstr "De gebruikersnaam bevat een niet-toegestaan teken."
+
+msgid "The username is required to remember the password."
+msgstr "De gebruikersnaam is verplicht om het wachtwoord te onthouden."
+
+msgid "The username is required."
+msgstr "De gebruikersnaam is verplicht."
+
+msgid "The volume could not be unmounted. Close the files and windows that use it, then try again."
+msgstr "Het volume kon niet worden ontkoppeld. Sluit de bestanden en vensters die het gebruiken en probeer het opnieuw."
+
+msgid "This PC"
+msgstr "Deze pc"
+
+msgid "This disk does not report its health (usual for USB disks, memory cards and virtual disks)."
+msgstr "Deze schijf meldt zijn status niet (gebruikelijk bij USB-schijven, geheugenkaarten en virtuele schijven)."
+
+msgid "This location already exists in the list."
+msgstr "Deze locatie staat al in de lijst."
+
+msgid "This software is neither affiliated with nor endorsed by Microsoft Corporation. Windows is a trademark of Microsoft Corporation."
+msgstr "Deze software is niet verbonden aan Microsoft Corporation en wordt niet door Microsoft Corporation goedgekeurd. Windows is een handelsmerk van Microsoft Corporation."
+
+msgid "Time left"
+msgstr "Resterende tijd"
+
+msgid "Touchpad"
+msgstr "Touchpad"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Type the password to be able to remember it."
+msgstr "Typ het wachtwoord om het te kunnen onthouden."
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "Unexpected shutdowns"
+msgstr "Onverwachte uitschakelingen"
+
+msgid "Unmounting the disk failed."
+msgstr "Het ontkoppelen van de schijf is mislukt."
+
+msgid "Unmounting {label} timed out."
+msgstr "Het ontkoppelen van {label} duurde te lang."
+
+msgid "Used space"
+msgstr "Gebruikte ruimte"
+
+msgid "Used: {size}"
+msgstr "In gebruik: {size}"
+
+msgid "Username (required):"
+msgstr "Gebruikersnaam (verplicht):"
+
+msgid "Version {version} of This PC is available. To update, download it and run bash install.sh again."
+msgstr "Versie {version} van Deze pc is beschikbaar. Download deze en voer bash install.sh opnieuw uit om bij te werken."
+
+msgid "Version {version} · Plasma version"
+msgstr "Versie {version} · Plasma-versie"
+
+msgid "Videos"
+msgstr "Video's"
+
+msgid "View"
+msgstr "Bekijken"
+
+msgid "Volume name"
+msgstr "Volumenaam"
+
+msgid "Wear"
+msgstr "Slijtage"
+
+msgid "Windows, Mac and Linux, files of any size. Best for USB sticks and external disks."
+msgstr "Windows, Mac en Linux, bestanden van elke grootte. Ideaal voor USB-sticks en externe schijven."
+
+msgid "Works everywhere (TV, car radio, old devices), but no file larger than 4 GB."
+msgstr "Werkt overal (tv, autoradio, oudere apparaten), maar geen bestanden groter dan 4 GB."
+
+msgid "Writes zeros over the whole disk: can take hours, but the old data can no longer be recovered."
+msgstr "Vult de hele schijf met nullen: kan uren duren, maar de oude gegevens zijn daarna niet meer te herstellen."
+
+msgid "Yellow"
+msgstr "Geel"
+
+msgid "Your administrator password is asked to read the disk. You can keep working; the disk will be a little slower."
+msgstr "Om de schijf te lezen wordt uw beheerderswachtwoord gevraagd. U kunt doorwerken; de schijf wordt iets trager."
+
+msgid "filled in from the list, or type it"
+msgstr "ingevuld via de lijst, of zelf typen"
+
+msgid "gdbus not found or timed out."
+msgstr "gdbus niet gevonden of time-out."
+
+msgid "only for “List”, never saved"
+msgstr "alleen voor ‘Weergeven’, wordt nooit opgeslagen"
+
+msgid "unknown error"
+msgstr "onbekende fout"
+
+msgid "{free} free of {total}"
+msgstr "{free} vrij van {total}"
+
+msgid "{h} h (about {d} days)"
+msgstr "{h} u (ongeveer {d} dagen)"
+
+msgid "{h} h {m} min"
+msgstr "{h} u {m} min"
+
+msgid "{label} was unmounted but could not be powered off:\n{detail}\n\nYou can still unplug it."
+msgstr "{label} is ontkoppeld, maar kon niet worden uitgeschakeld:\n{detail}\n\nU kunt het toch loskoppelen."
+
+msgid "{m} min {s} s"
+msgstr "{m} min {s} s"
+
+msgid "{n} item(s)"
+msgstr "{n} item(s)"
+
+msgid "{n} sectors"
+msgstr "{n} sectoren"
+
+msgid "{share} on {host}"
+msgstr "{share} op {host}"
+
+msgid "{test} complete: failed. Back up your files."
+msgstr "{test} voltooid: mislukt. Maak een back-up van uw bestanden."
+
+msgid "{test} complete: passed."
+msgstr "{test} voltooid: geslaagd."
+
+msgid "{test} in progress…"
+msgstr "{test} bezig…"
+
+msgid "{test} stopped."
+msgstr "{test} gestopt."
+
+msgid "{t} °C (warning at {w} °C)"
+msgstr "{t} °C (waarschuwing bij {w} °C)"
+
+msgid "{v} MB/s"
+msgstr "{v} MB/s"
+
+msgid "“{name}” is not responding. Check that it is turned on and connected to the network."
+msgstr "‘{name}’ reageert niet. Controleer of het is ingeschakeld en met het netwerk is verbonden."
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Open items with a single click"
+msgstr "Items openen met één klik"
+
+msgid "Applies to all of Plasma: Dolphin, the desktop and This PC."
+msgstr "Geldt voor heel Plasma: Dolphin, het bureaublad en Deze pc."
+
+msgid "Free space alert"
+msgstr "Waarschuwing vrije ruimte"
+
+msgid "{n} %"
+msgstr "{n}%"
+
+msgid "The drive gauge turns red when the free space falls below this level."
+msgstr "De schijfbalk wordt rood als de vrije ruimte onder dit niveau komt."
+
+msgid "Keeping 10 to 20 % free is recommended, especially for SSDs."
+msgstr "Aanbevolen is 10 tot 20% vrij te houden, vooral bij SSD's."
+
+msgid "About Fenestra This PC"
+msgstr "Over Fenestra This PC"
+
+msgid "Version {version}"
+msgstr "Versie {version}"
+
+msgid "Could not lock {label}:\n{detail}"
+msgstr "{label} kon niet worden vergrendeld:\n{detail}"
+
+msgid "Lifetime remaining"
+msgstr "Resterende levensduur"
+
+msgid "Manufacturer's estimate. At 0 %, the disk has reached its expected lifespan."
+msgstr "Schatting van de fabrikant. Bij 0 % heeft de schijf de verwachte levensduur bereikt."
+
+msgid "More"
+msgstr "Meer"
+
+msgid "Compact toolbar (icons only)"
+msgstr "Compacte werkbalk (alleen pictogrammen)"
+
+msgid "Same commands as the full toolbar, shown as icons. Adding a network location and choosing which sections to show are in the “…” menu."
+msgstr "Dezelfde opdrachten als de volledige werkbalk, weergegeven als pictogrammen. Een netwerklocatie toevoegen en kiezen welke secties worden getoond kan in het menu „…”."
+
+msgid "Same commands as the full toolbar, shown as icons. Choosing which sections to show is in the “…” menu."
+msgstr "Dezelfde opdrachten als de volledige werkbalk, weergegeven als pictogrammen. Kiezen welke secties worden getoond kan in het menu „…”."
+
+msgid "Low ink level: {colors}"
+msgstr "Laag inktniveau: {colors}"
+
+msgid "Search in Discover"
+msgstr "Zoeken in Discover"
+
+msgid "PyQt6 is missing"
+msgstr "PyQt6 ontbreekt"
+
+msgid "Install PyQt6"
+msgstr "PyQt6 installeren"
+
+msgid "Installing PyQt6…"
+msgstr "PyQt6 wordt geïnstalleerd…"
+
+msgid "Please wait…"
+msgstr "Even geduld…"
+
+msgid "PyQt6 could not be installed."
+msgstr "PyQt6 kon niet worden geïnstalleerd."
+
+msgid "PyQt6 is installed"
+msgstr "PyQt6 is geïnstalleerd"
+
+msgid "No PyQt6 package was found for this system. Install the PyQt6 package for Python 3 with your package manager."
+msgstr "Er is geen PyQt6-pakket gevonden voor dit systeem. Installeer het PyQt6-pakket voor Python 3 met uw pakketbeheerder."
+
+msgid "IP address"
+msgstr "IP-adres"

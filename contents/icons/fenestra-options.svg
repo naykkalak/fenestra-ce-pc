@@ -1,0 +1,46 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fenestra This PC — "Options" icon: three adjustment sliders (glossy version). naykkalak (2026) for Fenestra This PC. SPDX-License-Identifier: GPL-3.0-or-later -->
+  <defs>
+    <linearGradient id="bleu" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#64b5f6"/>
+      <stop offset="0.5" stop-color="#2196f3"/>
+      <stop offset="1" stop-color="#1565c0"/>
+    </linearGradient>
+    <linearGradient id="gris" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d5dce3"/>
+      <stop offset="1" stop-color="#a7b2bd"/>
+    </linearGradient>
+    <linearGradient id="reflet" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="bouton" cx="0.4" cy="0.3" r="0.75">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.6" stop-color="#eef2f6"/>
+      <stop offset="1" stop-color="#c3ccd6"/>
+    </radialGradient>
+    <radialGradient id="eclat" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- rails: adjusted part in blue, the rest in grey, light highlight on top -->
+  <g id="rails">
+    <rect x="5" y="9.5" width="54" height="9" rx="4.5" fill="url(#gris)"/>
+    <rect x="5" y="9.5" width="36" height="9" rx="4.5" fill="url(#bleu)"/>
+    <rect x="7" y="10.5" width="50" height="3.5" rx="1.75" fill="url(#reflet)"/>
+    <rect x="5" y="27.5" width="54" height="9" rx="4.5" fill="url(#gris)"/>
+    <rect x="5" y="27.5" width="19" height="9" rx="4.5" fill="url(#bleu)"/>
+    <rect x="7" y="28.5" width="50" height="3.5" rx="1.75" fill="url(#reflet)"/>
+    <rect x="5" y="45.5" width="54" height="9" rx="4.5" fill="url(#gris)"/>
+    <rect x="5" y="45.5" width="43" height="9" rx="4.5" fill="url(#bleu)"/>
+    <rect x="7" y="46.5" width="50" height="3.5" rx="1.75" fill="url(#reflet)"/>
+  </g>
+  <!-- knobs: domed, with a highlight at the top left -->
+  <circle cx="41" cy="14" r="9" fill="url(#bouton)" stroke="#1565c0" stroke-width="3.5"/>
+  <ellipse cx="38.5" cy="11" rx="3.6" ry="2.4" fill="url(#eclat)"/>
+  <circle cx="23" cy="32" r="9" fill="url(#bouton)" stroke="#1565c0" stroke-width="3.5"/>
+  <ellipse cx="20.5" cy="29" rx="3.6" ry="2.4" fill="url(#eclat)"/>
+  <circle cx="48" cy="50" r="9" fill="url(#bouton)" stroke="#1565c0" stroke-width="3.5"/>
+  <ellipse cx="45.5" cy="47" rx="3.6" ry="2.4" fill="url(#eclat)"/>
+</svg>
